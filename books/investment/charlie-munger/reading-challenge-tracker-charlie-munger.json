@@ -110,10 +110,12 @@
       "talkSlug": "harvard-commencement",
       "date": "2026-03-21",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
+      "status": "completed",
+      "completedAt": "2026-03-21T18:09:00.112943",
+      "outputFile": "master-notes-talk01.md",
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "notes": null
     },
     {
