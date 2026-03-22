@@ -249,11 +249,11 @@
       "talkWeek": "1 of 1",
       "date": "2026-03-22",
       "focus": "Read & Overview",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-03-22T22:02:00.000Z",
+      "messageId": "2228",
+      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "contentLength": 11047,
       "notes": null
     },
     {
