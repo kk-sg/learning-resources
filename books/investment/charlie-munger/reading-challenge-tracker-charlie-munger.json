@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 1,
-  "currentDay": 5,
+  "currentDay": 6,
   "status": "in_progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -329,11 +329,11 @@
       "talkWeek": "1 of 1",
       "date": "2026-03-27",
       "focus": "Case Study",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-03-27T06:00:00.000Z",
+      "messageId": "2279",
+      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "contentLength": 15675,
       "notes": null
     },
     {
