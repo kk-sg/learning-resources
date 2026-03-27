@@ -124,11 +124,14 @@
       "talkSlug": "elementary-worldly-wisdom",
       "date": "2026-03-28",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": null
+      "status": "completed",
+      "completedAt": "2026-03-27T01:00:00.000Z",
+      "outputFile": "master-notes-talk02.md",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "notes": "Comprehensive master notes covering 17 major mental models including latticework of mental models, man with a hammer syndrome, psychology of misjudgment, advantages and disadvantages of scale, circle of competence, pari-mutuel betting analogy, and surfing model. Includes 10+ case studies (Wal-Mart vs. Sears, CBS/Paley, NCR/Patterson, Berkshire textiles, etc.) and practical applications for personal development, business analysis, and investing."
     },
     {
       "talkNumber": 3,
