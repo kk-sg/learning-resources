@@ -364,11 +364,14 @@
       "talkWeek": "1 of 2",
       "date": "2026-03-29",
       "focus": "Read & Overview",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-03-29T06:00:00.000Z",
+      "messageId": "2318",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 13635,
       "notes": null
     },
     {
