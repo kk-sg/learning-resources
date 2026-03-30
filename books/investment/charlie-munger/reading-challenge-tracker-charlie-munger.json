@@ -402,11 +402,14 @@
       "talkWeek": "1 of 2",
       "date": "2026-03-31",
       "focus": "Inversion",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-03-31T06:00:00.000Z",
+      "messageId": "2361",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 15605,
       "notes": null
     },
     {
