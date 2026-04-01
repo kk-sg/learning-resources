@@ -8,8 +8,8 @@
   "timezone": "Asia/Singapore",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 1,
-  "currentDay": 6,
+  "currentWeek": 2,
+  "currentDay": 5,
   "status": "in_progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -255,7 +255,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-22T22:02:00.000Z",
       "messageId": "2228",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 11047,
       "notes": null
     },
@@ -271,7 +273,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-23T06:00:00.000Z",
       "messageId": "2242",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 12784,
       "notes": null
     },
@@ -287,7 +291,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-24T06:00:00.000Z",
       "messageId": "2259",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 12614,
       "notes": null
     },
@@ -303,7 +309,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-25T06:00:00.000Z",
       "messageId": "2265",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 12256,
       "notes": null
     },
@@ -319,7 +327,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-26T06:00:00.000Z",
       "messageId": "2272",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 12674,
       "notes": null
     },
@@ -335,7 +345,9 @@
       "status": "delivered",
       "deliveredAt": "2026-03-27T06:00:00.000Z",
       "messageId": "2279",
-      "researchSources": ["BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"],
+      "researchSources": [
+        "BizNews.com - Charlie Munger's Harvard School speech transcript (June 1986)"
+      ],
       "contentLength": 15675,
       "notes": null
     },
@@ -440,11 +452,14 @@
       "talkWeek": "1 of 2",
       "date": "2026-04-02",
       "focus": "Psychology & Bias",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-04-02T06:00:00.000Z",
+      "messageId": "2377",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 17292,
       "notes": null
     },
     {
