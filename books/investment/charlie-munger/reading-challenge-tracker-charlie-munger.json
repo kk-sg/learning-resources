@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 2,
-  "currentDay": 5,
+  "currentDay": 7,
   "status": "in_progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -490,11 +490,14 @@
       "talkWeek": "1 of 2",
       "date": "2026-04-04",
       "focus": "Reflection & Integration",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
+      "status": "delivered",
+      "deliveredAt": "2026-04-04T06:00:00.000Z",
+      "messageId": "2714",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 20543,
       "notes": null
     },
     {
