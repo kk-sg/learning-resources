@@ -8,8 +8,8 @@
   "timezone": "Asia/Singapore",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 2,
-  "currentDay": 7,
+  "currentWeek": 3,
+  "currentDay": 1,
   "status": "in_progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -509,12 +509,15 @@
       "talkWeek": "2 of 2",
       "date": "2026-04-05",
       "focus": "Read & Overview",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
-      "notes": null
+      "status": "delivered",
+      "deliveredAt": "2026-04-05T06:00:00.000Z",
+      "messageId": "4091",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 16005,
+      "notes": "Week 2 of Talk 2. Focus on core application models: Circle of Competence, Man with a Hammer Syndrome, Pari-Mutuel Model."
     },
     {
       "week": 3,
