@@ -528,12 +528,15 @@
       "talkWeek": "2 of 2",
       "date": "2026-04-06",
       "focus": "Mental Models",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
-      "notes": null
+      "status": "delivered",
+      "deliveredAt": "2026-04-06T06:00:00.000Z",
+      "messageId": "4099",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 18496,
+      "notes": "Week 2 Day 2 of Talk 2. Deep dive into Man with a Hammer Syndrome, Latticework Antidote, and Pari-Mutuel Market Model. Case studies: LTCM, Coursera, Berkshire vs dot-com, AI startup overparameterization."
     },
     {
       "week": 3,
