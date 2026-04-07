@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 3,
-  "currentDay": 1,
+  "currentDay": 4,
   "status": "in_progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -566,12 +566,15 @@
       "talkWeek": "2 of 2",
       "date": "2026-04-08",
       "focus": "Career & Professional",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
-      "notes": null
+      "status": "delivered",
+      "deliveredAt": "2026-04-08T06:00:00.000Z",
+      "messageId": "4122",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 16938,
+      "notes": "Week 2 Day 4 of Talk 2. Career & Professional focus: Circle of Competence career mapping, multi-model career thinking (anti-hammer), pari-mutuel career positioning. Case studies: Sears vs Wal-Mart, AI PM multidisciplinary edge, engineer declining 40% raise, Berkshire textile decision, consultant generic generalist trap."
     },
     {
       "week": 3,
