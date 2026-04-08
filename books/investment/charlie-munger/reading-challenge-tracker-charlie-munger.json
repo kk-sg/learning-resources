@@ -585,12 +585,15 @@
       "talkWeek": "2 of 2",
       "date": "2026-04-09",
       "focus": "Psychology & Bias",
-      "status": "scheduled",
-      "deliveredAt": null,
-      "messageId": null,
-      "researchSources": [],
-      "contentLength": null,
-      "notes": null
+      "status": "delivered",
+      "deliveredAt": "2026-04-09T06:00:00.000Z",
+      "messageId": "4130",
+      "researchSources": [
+        "Farnam Street (fs.blog) - Complete transcript of 1994 USC Business School talk",
+        "Safal Niveshak - PDF collection of Munger talks"
+      ],
+      "contentLength": 18118,
+      "notes": "Week 2 Day 5 of Talk 2. Psychology & Bias focus: Two-Track Analysis, Pavlovian Association, Social Proof in Markets, Incentive-Caused Bias. Case studies: CBS/Paley, AI Valuation Frenzy, Ed-Tech Platform Sunk Cost, Berkshire Textile Exit, Theranos Lollapalooza."
     },
     {
       "week": 3,
