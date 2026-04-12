@@ -1,5 +1,5 @@
 {
-  "challengeName": "Poor Charlie's Almanack – Eleven Talks",
+  "challengeName": "Poor Charlie's Almanack \u2013 Eleven Talks",
   "startDate": "2026-03-22",
   "endDate": "2026-07-11",
   "participant": "K",
@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 4,
-  "currentDay": 1,
+  "currentDay": 2,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,24 +17,18 @@
   },
   "latestEntry": {
     "week": 4,
-    "day": 1,
+    "day": 2,
     "talkNumber": 3,
     "talkTitle": "A Lesson on Elementary, Worldly Wisdom, Revisited",
     "talkSlug": "worldly-wisdom-revisited",
     "talkWeek": "1 of 1",
-    "date": "2026-04-12",
-    "focus": "Read & Overview",
+    "date": "2026-04-13",
+    "focus": "Mental Models",
     "status": "delivered",
-    "deliveredAt": "2026-04-11T22:05:00.000Z",
-    "messageId": "4159",
-    "fileMessageId": "4160",
-    "researchSources": [
-      "Business & Books - Talk 3 Summary (Medium)",
-      "Amay - Poor Charlie's Almanack Book Summary 6/14 (Medium)",
-      "Stripe Press - Poor Charlie's Almanack, Talk Three",
-      "Archive.org - Full text of Poor Charlie's Almanack"
-    ],
-    "contentLength": 16437,
-    "notes": "Week 4 Day 1 of Talk 3. Read & Overview focus: Psychology-morality connection, ideological bias, one-foot-fence philosophy. Created master-notes-talk03.md before lesson. Case studies: workers comp fraud, AI reward hacking, failing project manager, Berkshire strategy, overconfident expert."
+    "deliveredAt": "2026-04-12T22:00:00.000Z",
+    "messageId": "4162",
+    "fileMessageId": "4163",
+    "contentLength": 16242,
+    "notes": "Week 4 Day 2 of Talk 3. Mental Models focus: Latticework recap, Ideological Bias, Incentive-Caused Bias + Social Proof corruption loop, Navy Model of Accountability, Pari-Mutuel / Mispricing. 5 case snapshots: workers comp fraud, AI content farms, product manager sunk cost, Berkshire one-foot fence, startup tech ideology."
   }
 }
