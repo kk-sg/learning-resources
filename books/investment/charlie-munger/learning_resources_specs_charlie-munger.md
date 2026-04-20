@@ -571,6 +571,28 @@ Munger Harvard graduation speech transcript
 - **Duration:** 2 weeks (14 days)
 - **Why 2 weeks:** Core foundational talk with 80+ models across multiple disciplines
 
+**🎯 Refined Daily Strategy for Multi-Week Talks:**
+
+Instead of spreading 80+ models thin across 14 days, focus on **2-3 key models per day in depth**.
+
+**Day-by-Day Breakdown:**
+- Days 1-2: Deep dive into first 2 core models (Circle of Competence, Man with Hammer Syndrome)
+- Days 3-4: Apply those 2 models to real-world scenarios
+- Days 5-7: Integrate 2 core models into existing framework (latticework, circle of competence)
+- Day 14 (Week 2 final day): Review all 7 days, synthesize into latticework system
+
+**Why This Works:**
+1. **Better retention** - Learners remember what they go deep into, not shallow overviews
+2. **Practical application** - More time per model for concrete examples
+3. **Reduced cognitive load** - Less overwhelming, more digestible
+4. **Higher quality** - More nuanced understanding per model
+
+**Content Length Target:** ~2,000-2,500 words per day (compared to ~1,000-1,200 for breadth)
+
+---
+
+**Specific Searches:**
+
 **Specific Searches:**
 
 ```
@@ -1364,6 +1386,17 @@ _[How does today's focus build on Days 1-{X-1}? What new angle are we exploring?
 
 ## 14. DAY-BY-DAY FOCUS RULES (ENHANCED)
 
+### 🎯 Strategy Guide: When to Use Depth vs Breadth
+
+| Talk Type | Recommended Strategy | Rationale |
+|------------|-------------------|-----------|
+| **Multi-week talks (2-3 weeks)** | **2-3 key models/day in depth** | Better retention, practical application, reduced cognitive load |
+| **Single-week talks (1 week)** | **1 focus per day** | Comprehensive overview, good breadth |
+| **Talks with 1-3 core frameworks** | **1 framework/day in depth** | Deeper understanding, stronger application |
+| **Review days (final day of week)** | **Synthesis & Integration** | Tie everything together |
+
+---
+
 ### Day 1: Read & Overview Focus
 
 **Depth Requirements:**
@@ -1380,32 +1413,16 @@ _[How does today's focus build on Days 1-{X-1}? What new angle are we exploring?
 - Core thesis
 - What makes this talk unique
 
-**Avoid:**
+**Strategy by Talk Type:**
 
-- Going too deep into any single model (save for Day 2)
-- Listing too many takeaways (focus on understanding, not action)
+| Talk Type | Day 1-2 | Days 3-7 | Days 8-14 (Final) |
+|------------|-----------|----------|----------------|
+| **Single-week (1 week)** | Full overview | Models overview | Focus: Breadth |
+| **Multi-week (2 weeks)** | Full overview | Model 1 (deep) | Model 2 (deep) | Focus: Depth |
+| **Multi-week (3 weeks)** | Full overview | Model 1 (deep) | Model 2 (deep) | Model 3 (deep) | Focus: Depth |
+| **Final day** | Synthesis & Integration | | | |
 
----
-
-### Day 2: Mental Models Focus
-
-**Depth Requirements:**
-
-- Extract 2–4 mental models from the talk
-- Explain each model clearly
-- Provide concrete application for each model
-- Connect models to each other if they interact
-
-**Content Emphasis:**
-
-- What models does this talk teach?
-- How do they fit into a latticework?
-- Where can they be applied?
-
-**Avoid:**
-
-- Surface-level model mentions without explanation
-- Models not actually in the talk (stay faithful to source)
+**Note:** For multi-week talks with 2+ core models, use the refined "2-3 models/day in depth" strategy to maximize retention and practical value. For single-week talks, maintain breadth in Day 1-2 with models overview on Day 1, then apply in Days 3-7.
 
 ---
 

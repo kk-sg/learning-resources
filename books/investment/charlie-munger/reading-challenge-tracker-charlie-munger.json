@@ -1,5 +1,5 @@
 {
-  "challengeName": "Poor Charlie's Almanack \u2013 Eleven Talks",
+  "challengeName": "Poor Charlie's Almanack – Eleven Talks",
   "startDate": "2026-03-22",
   "endDate": "2026-07-11",
   "participant": "K",
@@ -8,27 +8,27 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 4,
-  "currentDay": 2,
+  "currentWeek": 5,
+  "currentDay": 3,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 4,
-    "day": 2,
-    "talkNumber": 3,
-    "talkTitle": "A Lesson on Elementary, Worldly Wisdom, Revisited",
-    "talkSlug": "worldly-wisdom-revisited",
-    "talkWeek": "1 of 1",
-    "date": "2026-04-13",
-    "focus": "Mental Models",
+    "week": 5,
+    "day": 3,
+    "talkNumber": 4,
+    "talkTitle": "Practical Thought About Practical Thought?",
+    "talkSlug": "practical-thought",
+    "talkWeek": "1 of 2",
+    "date": "2026-04-21",
+    "focus": "Inversion",
     "status": "delivered",
-    "deliveredAt": "2026-04-12T22:00:00.000Z",
-    "messageId": "4162",
-    "fileMessageId": "4163",
-    "contentLength": 16242,
-    "notes": "Week 4 Day 2 of Talk 3. Mental Models focus: Latticework recap, Ideological Bias, Incentive-Caused Bias + Social Proof corruption loop, Navy Model of Accountability, Pari-Mutuel / Mispricing. 5 case snapshots: workers comp fraud, AI content farms, product manager sunk cost, Berkshire one-foot fence, startup tech ideology."
+    "deliveredAt": "2026-04-21T06:00:00.000Z",
+    "messageId": "4319",
+    "fileMessageId": "4320",
+    "contentLength": 14669,
+    "notes": "Week 5 Day 3 of Talk 4. Inversion focus: Think backwards to avoid failure. 4 avoidance principles from Coca-Cola case, man with a hammer syndrome. 5 case snapshots: New Coke fiasco, Netflix Qwikster, manager promotion mistake, Berkshire circle of competence, startup overfunding. Inversion drill prompts and commitment exercise."
   }
 }
