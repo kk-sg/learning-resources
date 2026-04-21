@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 5,
-  "currentDay": 3,
+  "currentDay": 4,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 5,
-    "day": 3,
+    "day": 4,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "1 of 2",
-    "date": "2026-04-21",
-    "focus": "Inversion",
+    "date": "2026-04-22",
+    "focus": "Career & Professional",
     "status": "delivered",
-    "deliveredAt": "2026-04-21T06:00:00.000Z",
-    "messageId": "4319",
-    "fileMessageId": "4320",
-    "contentLength": 14669,
-    "notes": "Week 5 Day 3 of Talk 4. Inversion focus: Think backwards to avoid failure. 4 avoidance principles from Coca-Cola case, man with a hammer syndrome. 5 case snapshots: New Coke fiasco, Netflix Qwikster, manager promotion mistake, Berkshire circle of competence, startup overfunding. Inversion drill prompts and commitment exercise."
+    "deliveredAt": "2026-04-22T06:00:00.000Z",
+    "messageId": "4322",
+    "fileMessageId": "4323",
+    "contentLength": 12575,
+    "notes": "Week 5 Day 4 of Talk 4. Career & Professional focus: Apply 5 Notions of Practical Thought (Simplify, Numerical Fluency, Invert, Study Basics, Lollapalooza Effects) to workplace and career decisions. 5 case snapshots: New Coke fiasco, Netflix Qwikster, manager promotion mistake, See's Candies acquisition, founder-consultant misalignment. 5 Notions Checklist for career decisions, commitment exercise."
   }
 }
