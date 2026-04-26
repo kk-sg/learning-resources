@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 6,
-  "currentDay": 1,
+  "currentDay": 2,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 6,
-    "day": 1,
+    "day": 2,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "2 of 2",
-    "date": "2026-04-26",
-    "focus": "Read & Overview",
+    "date": "2026-04-27",
+    "focus": "Mental Models",
     "status": "delivered",
-    "deliveredAt": "2026-04-26T06:00:00.000Z",
-    "messageId": "4341",
-    "fileMessageId": "4342",
-    "contentLength": 14191,
-    "notes": "Week 6 Day 1 of Talk 4 (Week 2 of 2). Overview focus: Building on Week 1's 5 notions to explore practical application frameworks. Introduction to Week 2 focus on specific tools: decision trees, probability, and checklists. 5 case snapshots - New Coke fiasco, social media engagement engines, job offer trap, Berkshire Coca-Cola investment, Theranos failure. Core model: Lollapalooza Effect as combinatorial thinking tool. Commitment: Run upcoming decision through 5-Notions Checklist. Message delivered successfully."
+    "deliveredAt": "2026-04-27T06:00:00.000Z",
+    "messageId": "4344",
+    "fileMessageId": "4345",
+    "contentLength": 15936,
+    "notes": "Week 6 Day 2 of Talk 4 (Week 2 of 2). Mental Models focus: Extracting and mastering Munger's core mental models from the 5 notions. Core frameworks: Five Notions of Practical Thought, Lollapalooza Effect, Man with a Hammer Syndrome, Inversion, Incentive-Caused Bias. 5 case snapshots - New Coke fiasco, social media engagement engines, job offer trap, Berkshire Coca-Cola investment, startup founder failure. Key takeaway: Build a 5-Notions Checklist, audit your hammer collection, practice inversion. Commitment: Apply all 5 notions to one upcoming decision. Message delivered successfully."
   }
 }
