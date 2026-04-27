@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 6,
-  "currentDay": 2,
+  "currentDay": 3,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 6,
-    "day": 2,
+    "day": 3,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "2 of 2",
-    "date": "2026-04-27",
-    "focus": "Mental Models",
+    "date": "2026-04-28",
+    "focus": "Inversion",
     "status": "delivered",
-    "deliveredAt": "2026-04-27T06:00:00.000Z",
-    "messageId": "4344",
-    "fileMessageId": "4345",
-    "contentLength": 15936,
-    "notes": "Week 6 Day 2 of Talk 4 (Week 2 of 2). Mental Models focus: Extracting and mastering Munger's core mental models from the 5 notions. Core frameworks: Five Notions of Practical Thought, Lollapalooza Effect, Man with a Hammer Syndrome, Inversion, Incentive-Caused Bias. 5 case snapshots - New Coke fiasco, social media engagement engines, job offer trap, Berkshire Coca-Cola investment, startup founder failure. Key takeaway: Build a 5-Notions Checklist, audit your hammer collection, practice inversion. Commitment: Apply all 5 notions to one upcoming decision. Message delivered successfully."
+    "deliveredAt": "2026-04-28T06:00:00.000Z",
+    "messageId": "4354",
+    "fileMessageId": "4355",
+    "contentLength": 11933,
+    "notes": "Week 6 Day 3 of Talk 4 (Week 2 of 2). Inversion focus: How to guarantee misery by failing to apply multidisciplinary thinking. Core frameworks: Inversion (reverse thinking), Man with a Hammer Syndrome, Lollapalooza Effects. 5 case snapshots - New Coke fiasco (violated lollapalooza thinking), WeWork valuation collapse (overspecialization), founder who ignored inversion (failed to ask what could go wrong), Berkshire Coca-Cola investment (applied lollapalooza thinking), manager who relied on one metric (hammer syndrome). Key takeaway: Invert before you act - spend 10 minutes listing failure modes before any decision. Commitment: Pick one upcoming decision and list top 5 failure modes. Message delivered successfully."
   }
 }
