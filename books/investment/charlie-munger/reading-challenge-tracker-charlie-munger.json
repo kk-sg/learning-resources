@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 6,
-  "currentDay": 3,
+  "currentDay": 4,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 6,
-    "day": 3,
+    "day": 4,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "2 of 2",
-    "date": "2026-04-28",
-    "focus": "Inversion",
+    "date": "2026-04-29",
+    "focus": "Career & Professional",
     "status": "delivered",
-    "deliveredAt": "2026-04-28T06:00:00.000Z",
-    "messageId": "4354",
-    "fileMessageId": "4355",
-    "contentLength": 11933,
-    "notes": "Week 6 Day 3 of Talk 4 (Week 2 of 2). Inversion focus: How to guarantee misery by failing to apply multidisciplinary thinking. Core frameworks: Inversion (reverse thinking), Man with a Hammer Syndrome, Lollapalooza Effects. 5 case snapshots - New Coke fiasco (violated lollapalooza thinking), WeWork valuation collapse (overspecialization), founder who ignored inversion (failed to ask what could go wrong), Berkshire Coca-Cola investment (applied lollapalooza thinking), manager who relied on one metric (hammer syndrome). Key takeaway: Invert before you act - spend 10 minutes listing failure modes before any decision. Commitment: Pick one upcoming decision and list top 5 failure modes. Message delivered successfully."
+    "deliveredAt": "2026-04-29T06:00:00.000Z",
+    "messageId": "4357",
+    "fileMessageId": "4358",
+    "contentLength": 11898,
+    "notes": "Week 6 Day 4 of Talk 4 (Week 2 of 2). Career & Professional focus: How to apply multidisciplinary thinking to career decisions. Core frameworks: 5 Helpful Notions (Simplification, Numerical Fluency, Inversion, Elementary Wisdom, Lollapalooza Effects). 5 case snapshots - New Coke fiasco (violated deprival super-reaction), tech startups using psychology (applied lollapalooza effects), engineer who only optimized for salary (man with a hammer syndrome), Berkshire insurance model (multidisciplinary synthesis), financial advisor who relied on one model (inversion failure). Key takeaway: Build a career latticework, not a specialty. Commitment: Run a current professional decision through all 5 notions before deciding. Message delivered successfully."
   }
 }
