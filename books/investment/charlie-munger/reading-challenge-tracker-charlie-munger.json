@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 6,
-  "currentDay": 4,
+  "currentDay": 5,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 6,
-    "day": 4,
+    "day": 5,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "2 of 2",
-    "date": "2026-04-29",
-    "focus": "Career & Professional",
+    "date": "2026-04-30",
+    "focus": "Psychology & Bias",
     "status": "delivered",
-    "deliveredAt": "2026-04-29T06:00:00.000Z",
-    "messageId": "4357",
-    "fileMessageId": "4358",
-    "contentLength": 11898,
-    "notes": "Week 6 Day 4 of Talk 4 (Week 2 of 2). Career & Professional focus: How to apply multidisciplinary thinking to career decisions. Core frameworks: 5 Helpful Notions (Simplification, Numerical Fluency, Inversion, Elementary Wisdom, Lollapalooza Effects). 5 case snapshots - New Coke fiasco (violated deprival super-reaction), tech startups using psychology (applied lollapalooza effects), engineer who only optimized for salary (man with a hammer syndrome), Berkshire insurance model (multidisciplinary synthesis), financial advisor who relied on one model (inversion failure). Key takeaway: Build a career latticework, not a specialty. Commitment: Run a current professional decision through all 5 notions before deciding. Message delivered successfully."
+    "deliveredAt": "2026-04-30T06:00:00.000Z",
+    "messageId": "4360",
+    "fileMessageId": "4361",
+    "contentLength": 15518,
+    "notes": "Week 6 Day 5 of Talk 4 (Week 2 of 2). Psychology & Bias focus: The 5 helpful notions as countermeasures to specific psychological biases. Core frameworks: Incentive-Caused Bias, Social Proof & Conditioned Reflexes, Deprival Super-Reaction Syndrome, Self-Appraisal Bias, Man with a Hammer Syndrome. 5 case snapshots - New Coke fiasco (violated deprival super-reaction and conditioned reflexes), social media's lollapalooza effect on engagement (multiple psychological tendencies), employee who trusted consultant with hidden incentives (incentive-caused bias), Berkshire insurance acquisition strategy (multidisciplinary thinking applied to incentives), CEO who only listened to finance 'hammer' (man with a hammer syndrome). Key takeaway: Map incentives, identify your hammers, test for deprival super-reaction, counteract self-appraisal bias, use 5 notions as bias countermeasures. Commitment: Identify one major decision influenced by biases and run through countermeasures checklist. Message delivered successfully."
   }
 }
