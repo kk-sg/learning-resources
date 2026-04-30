@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 6,
-  "currentDay": 5,
+  "currentDay": 6,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,18 +17,18 @@
   },
   "latestEntry": {
     "week": 6,
-    "day": 5,
+    "day": 6,
     "talkNumber": 4,
     "talkTitle": "Practical Thought About Practical Thought?",
     "talkSlug": "practical-thought",
     "talkWeek": "2 of 2",
-    "date": "2026-04-30",
-    "focus": "Psychology & Bias",
+    "date": "2026-05-01",
+    "focus": "Case Study",
     "status": "delivered",
-    "deliveredAt": "2026-04-30T06:00:00.000Z",
-    "messageId": "4360",
-    "fileMessageId": "4361",
-    "contentLength": 15518,
-    "notes": "Week 6 Day 5 of Talk 4 (Week 2 of 2). Psychology & Bias focus: The 5 helpful notions as countermeasures to specific psychological biases. Core frameworks: Incentive-Caused Bias, Social Proof & Conditioned Reflexes, Deprival Super-Reaction Syndrome, Self-Appraisal Bias, Man with a Hammer Syndrome. 5 case snapshots - New Coke fiasco (violated deprival super-reaction and conditioned reflexes), social media's lollapalooza effect on engagement (multiple psychological tendencies), employee who trusted consultant with hidden incentives (incentive-caused bias), Berkshire insurance acquisition strategy (multidisciplinary thinking applied to incentives), CEO who only listened to finance 'hammer' (man with a hammer syndrome). Key takeaway: Map incentives, identify your hammers, test for deprival super-reaction, counteract self-appraisal bias, use 5 notions as bias countermeasures. Commitment: Identify one major decision influenced by biases and run through countermeasures checklist. Message delivered successfully."
+    "deliveredAt": "2026-05-01T06:01:00.000Z",
+    "messageId": "4363",
+    "fileMessageId": "4364",
+    "contentLength": 17435,
+    "notes": "Week 6 Day 6 of Talk 4 (Week 2 of 2). Case Study focus: The 5 helpful notions as diagnostic tools for pattern recognition. Core frameworks: 5 Notions as Diagnostic Tools, Lollapalooza Detection, Violation Pattern Recognition. 5 case snapshots - 2008 Financial Crisis (multiple violations: no simplification, weak numerical fluency, no inversion, ignored elementary wisdom, missed lollapalooza risk), TikTok's explosive growth (applied lollapalooza: combined algorithmic personalization, social proof, variable rewards, dopamine loops, low-friction), startup founder who optimized for wrong metric (violated simplification by not asking 'which customers should we retain?'), Berkshire's GEICO acquisition (applied all 5 notions: simplification, numerical fluency, inversion, elementary wisdom, lollapalooza), Quibi's $1.75B failure (ignored simplification, inversion, and elementary wisdom). Key takeaway: Run every major decision through the full 5-notion checklist, build violation pattern library, look for 3+ factor alignments, practice mental simulation, use case studies as training data. Commitment: Pick one real-world situation and run it through the full 5-notion checklist. Message delivered successfully."
   }
 }
