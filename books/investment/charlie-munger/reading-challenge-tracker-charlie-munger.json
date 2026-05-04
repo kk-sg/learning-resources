@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 7,
-  "currentDay": 2,
+  "currentDay": 3,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,19 +17,19 @@
   },
   "latestEntry": {
     "week": 7,
-    "day": 2,
+    "day": 3,
     "talkNumber": 5,
     "talkTitle": "The Need for More Multidisciplinary Skills",
     "talkSlug": "multidisciplinary-skills",
     "talkWeek": "1 of 1",
-    "date": "2026-05-04",
-    "focus": "Mental Models",
+    "date": "2026-05-05",
+    "focus": "Inversion",
     "status": "delivered",
-    "deliveredAt": "2026-05-03T22:05:00.000Z",
-    "messageId": "4438",
-    "fileMessageId": "4439",
-    "contentLength": 19192,
-    "notes": "Week 7 Day 2 of Talk 5 (Week 1 of 1, Single-Week Talk). Mental Models focus: Extracting key mental models from Munger's educational reform manifesto. Core frameworks: Man-with-a-Hammer Syndrome (over-reliance on familiar tools), Fundamental Four-Discipline Combination (Math, Physics, Chemistry, Engineering as bedrock), Aircraft Simulator Analogy (knowledge maintenance through regular practice), Four Types of Checklists (Two-Track Analysis, Investing Checklist, Five Notions, 25 Psychology Tendencies), Principle of Economy (use fundamental principles before creating new complexity). 5 case snapshots - LTCM collapse (finance-only expertise without multidisciplinary perspective), Quibi's $1.75B failure (content-only model ignored psychology/sociology/economics), Software engineer who only knows code (programming expert treating every problem as technical), Berkshire's See's Candies acquisition (multidisciplinary lollapalooza), CEO who optimized only one metric (growth hammer ignored economics/psychology/strategy). 5 actionable takeaways including audit problem-solving approach, Two-Track Analysis checklist, identify man-with-a-hammer areas, build simulator routine, Principle of Economy bias countermeasure. Mental model drill on Man-with-a-Hammer Syndrome + Multidisciplinary Coverage. 3 reflection questions on self-audit, environment/culture, latticework building. Personal commitment: Analyze one problem using 3 different disciplinary models (15-20 min). Talk 5 Day 2 complete. Next: Day 3 Inversion focus. Message delivered successfully."
+    "deliveredAt": "2026-05-04T22:03:00.000Z",
+    "messageId": "4451",
+    "fileMessageId": "4452",
+    "contentLength": 12705,
+    "notes": "Week 7 Day 3 of Talk 5 (Week 1 of 1, Single-Week Talk). Inversion focus: How to guarantee professional failure through overspecialization. Core frameworks: Man-with-a-Hammer Syndrome (over-reliance on familiar tools), Fundamental Four-Discipline Combination (Math, Physics, Chemistry, Engineering as bedrock), Aircraft Simulator Analogy (knowledge maintenance through regular practice). 5 case snapshots - LTCM collapse (finance-only expertise without multidisciplinary perspective), Quibi's $1.75B failure (content-only model ignored psychology/sociology/economics), Software engineer who only knows code (programming expert treating every problem as technical), Berkshire's See's Candies acquisition (multidisciplinary lollapalooza), CEO who optimized only one metric (growth hammer ignored economics/psychology/strategy). 5 actionable takeaways including audit problem-solving approach, pre-decision multidisciplinary checklist, failure guarantee through specialization, simulator routine design, certainty as warning sign. Mental model drill on Inversion - how to fail, how to guarantee misery. 3 reflection questions on self-audit, environment/culture, latticework building. Personal commitment: Analyze one important decision using 3+ disciplinary models (15-20 min). Talk 5 Day 3 complete. Next: Day 4 Career & Professional focus. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
