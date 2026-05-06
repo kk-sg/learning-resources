@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 7,
-  "currentDay": 4,
+  "currentDay": 5,
   "status": "in-progress",
   "telegramTopic": {
     "chatId": "-1003750328075",
@@ -17,19 +17,19 @@
   },
   "latestEntry": {
     "week": 7,
-    "day": 4,
+    "day": 5,
     "talkNumber": 5,
     "talkTitle": "The Need for More Multidisciplinary Skills",
     "talkSlug": "multidisciplinary-skills",
     "talkWeek": "1 of 1",
-    "date": "2026-05-06",
-    "focus": "Career & Professional",
+    "date": "2026-05-07",
+    "focus": "Psychology & Bias",
     "status": "delivered",
-    "deliveredAt": "2026-05-06T06:00:00.000Z",
-    "messageId": "4454",
-    "fileMessageId": "4455",
-    "contentLength": 22303,
-    "notes": "Week 7 Day 4 of Talk 5 (Week 1 of 1, Single-Week Talk). Career & Professional focus: How to build and maintain your personal multidisciplinary toolkit. Core frameworks: Aircraft Simulator Analogy (pilots as model for professional training - wide education, practice-based fluency, forward/reverse thinking, targeted allocation, mandatory checklists, maintenance routine), Fundamental Four-Discipline Combination (Math, Physics, Chemistry, Engineering as bedrock of hard science thinking), Four Types of Checklists (Two-track analysis, Investing/decision-making, Five problem-solving notions, 25 psychology tendencies). 5 case snapshots - LTCM collapse (unidisciplinary finance failure), Quibi's $1.75B failure (content-only ignored psychology/economics), Manager who promoted wrong person (technical-only evaluation), Berkshire's See's Candies (multidisciplinary lollapalooza), CTO who optimized only code quality (overspecialization failure). 5 actionable takeaways including daily 15-min simulator practice, two-track analysis, career audit for man-with-a-hammer moments, latticework maintenance system design, incentive-caused bias countermeasure. Mental model drill on Multidisciplinary Practice with career decision prompts. 3 reflection questions on self-audit, environment/culture, latticework building across four fundamentals. Personal commitment: Audit last major professional decision using two-track analysis with 3+ missed multidisciplinary insights (15-20 min). Talk 5 Day 4 complete. Next: Day 5 Psychology & Bias focus. Message delivered successfully."
+    "deliveredAt": "2026-05-07T06:00:00.000Z",
+    "messageId": "4457",
+    "fileMessageId": "4458",
+    "contentLength": 16461,
+    "notes": "Week 7 Day 5 of Talk 5 (Week 1 of 1, Single-Week Talk). Psychology & Bias focus: Psychological barriers preventing multidisciplinary thinking. Core frameworks: Man-with-a-Hammer Tendency (reliance on familiar models), Incentive-Caused Bias in Education (institutional resistance to reform), Use-It-or-Lose-It Tendency (skills atrophy without practice), Availability Tendency (defaulting to available models from own discipline), Twaddle Tendency (accepting nonsense from narrow specialists). 5 case snapshots - LTCM collapse (unidisciplinary finance failure), Quibi's $1.75B failure (Hollywood + tech thinking ignored psychology/economics/sociology), Product manager optimized only metrics (psychology/economics ignored), Berkshire's See's Candies (multidisciplinary success), Founder ignored incentive alignment (psychology atrophy). 5 actionable takeaways including audit of 3 recent decisions for disciplinary dominance, discipline checklist before major decisions, unidisciplinary disaster inversion scenarios, daily simulator routine, skepticism of single-discipline expert confidence. Mental model drill on Man-with-a-Hammer + Use-It-or-Lose-It with 5 prompts for bias recognition. 3 reflection questions on self-audit, environment/culture incentives, latticework building across disciplines. Personal commitment: Conduct man-with-a-hammer audit on most important recent decision identifying disciplinary dominance and 2 alternative perspectives (15-20 min). Talk 5 Day 5 complete. Next: Day 6 Case Study focus. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
