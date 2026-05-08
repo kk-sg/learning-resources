@@ -104,11 +104,11 @@
       "talkSlug": "charitable-foundations",
       "date": "2026-05-09",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 8 (Talk 6 starts May 10, 2026)"
+      "status": "completed",
+      "completedAt": "2026-05-08T01:02:00.000Z",
+      "outputFile": "master-notes-talk06.md",
+      "researchSources": ["Full transcript from jameslau88blog.wordpress.com", "GuruFocus article", "ValueWalk summary", "Bamboo Innovator commentary", "LTCM collapse background"],
+      "notes": "Completed for Week 8 (Talk 6 starts May 10, 2026)"
     },
     {
       "type": "master-research",
