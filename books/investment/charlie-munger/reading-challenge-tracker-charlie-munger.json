@@ -8,28 +8,46 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 7,
-  "currentDay": 7,
+  "currentWeek": 8,
+  "currentDay": 1,
   "status": "in-progress",
+  "schedule": [
+    {
+      "week": 8,
+      "day": 1,
+      "talkNumber": 6,
+      "talkTitle": "Investment Practices of Leading Charitable Foundations",
+      "talkSlug": "charitable-foundations",
+      "talkWeek": "1 of 1",
+      "date": "2026-05-10",
+      "focus": "Read & Overview",
+      "status": "delivered",
+      "deliveredAt": "2026-05-10T06:00:00.000Z",
+      "messageId": "4464",
+      "fileMessageId": "4465",
+      "contentLength": 14412,
+      "notes": "Week 8 Day 1 of Talk 6 (Week 1 of 1, Single-Week Talk). Read & Overview focus: 3% cost problem, drift toward complexity, why foundations destroy charitable capital through avoidable costs. Core frameworks: 3% Cost Problem (arithmetic of costs destroying wealth in low-return environments), Three-Layer Consultant Incentives (perverse structures adding cost and misalignment), Concentration vs. Diversification Trade-off (rational concentration when you understand the business). 5 actionable takeaways: calculate total cost drag, audit for layered complexity, question professional complexity, apply cost-return arithmetic test, recognize overconfidence trap. 5 case snapshots: LTCM collapse (lollapalooza effect of overconfidence + sophistication + leverage), GM fourth door mistake (professionalism over observation), Woodruff Foundation Coca-Cola concentration (wisdom of concentration through understanding), Berkshire low-cost approach (simplicity beats complexity), Fund of Funds revival (social proof recreating failed past models). Mental model drill on Inversion with Day 1 prompts: biggest insight challenging current thinking (professionalism doesn't equal better results), assumption Munger would question (diversification and professional management being inherently good). 3 reflection questions: audit of total investment costs, workplace professionalism complexity analysis, latticework building for incentive-caused bias/overconfidence/social proof/inversion. Personal commitment: calculate total annual investment costs as percentage of principal. Talk 6 focuses on foundation investment practices, showing how incentive-caused bias, overconfidence, and social proof lead foundations to adopt costly, complex consultant structures that destroy charitable capital. Next: Week 8 Day 2 - Mental Models (Incentive-Caused Bias, Overconfidence, Social Proof, Man-with-a-Hammer). Message delivered successfully."
+    }
+  ],
   "telegramTopic": {
     "chatId": "-1003750328075",
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 7,
-    "day": 7,
-    "talkNumber": 5,
-    "talkTitle": "The Need for More Multidisciplinary Skills",
-    "talkSlug": "multidisciplinary-skills",
+    "week": 8,
+    "day": 1,
+    "talkNumber": 6,
+    "talkTitle": "Investment Practices of Leading Charitable Foundations",
+    "talkSlug": "charitable-foundations",
     "talkWeek": "1 of 1",
-    "date": "2026-05-09",
-    "focus": "Reflection & Integration",
+    "date": "2026-05-10",
+    "focus": "Read & Overview",
     "status": "delivered",
-    "deliveredAt": "2026-05-09T06:00:00.000Z",
-    "messageId": "4461",
-    "fileMessageId": "4462",
-    "contentLength": 19888,
-    "notes": "Week 7 Day 7 of Talk 5 (Week 1 of 1, Single-Week Talk - FINAL DAY). Reflection & Integration focus: Synthesis of entire week into personal action plan. Week in Review: One Big Idea (personal multidisciplinary education system with 3 components: latticework, simulator practice, checklists), Three Models (man-with-a-hammer syndrome, aircraft simulator analogy, two-track analysis). Integration Exercise: 4-step process to design personal system (audit current latticework, design simulator routine, create decision checklist, commit to one change). Core frameworks: Aircraft Simulator Analogy (practice-based fluency), Two-Track Analysis (rational + subconscious), Fundamental Four-Discipline Combination (math/physics/chemistry/engineering), 6-Element Pilot Training Model, Principle of Economy. 5 actionable takeaways: build latticework, create simulator routine, use two-track analysis, apply inversion to career, audit for man-with-a-hammer bias. 5 case snapshots: LTCM collapse (unidisciplinary failure), Quibi (ignored psychology/economics), product manager metrics-only thinking (ignored psychology), Berkshire's See's Candies (multidisciplinary success), founder ignored incentives (psychology missed). Mental model drill on Latticework integration with Day 7 prompts: adding ONE model to permanent latticework, reflecting on thinking changes. 3 reflection questions: audit of recent decision for multidisciplinary thinking, environment/culture incentives, latticework building (fundamental four-discipline assessment). Personal commitment: 15-min man-with-a-hammer audit on most important recent decision. Commitment for next week: Read Talk 6 (Charitable Foundations) with multidisciplinary lenses (economics/psychology/governance). Personal Latticework Update: Added 9 models this week (man-with-a-hammer, aircraft simulator, two-track analysis, fundamental four-discipline, practice-based fluency, incentive-caused bias, use-it-or-lose-it, availability tendency, twaddle tendency), reinforced 5 models (inversion, latticework, circle of competence, checklist thinking, margin of safety). Total models: 25+. Week 7 complete. Next: Week 8 Day 1 - Talk 6 (Charitable Foundations) begins May 10. Message delivered successfully."
+    "deliveredAt": "2026-05-10T06:00:00.000Z",
+    "messageId": "4464",
+    "fileMessageId": "4465",
+    "contentLength": 14412,
+    "notes": "Week 8 Day 1 of Talk 6 (Week 1 of 1, Single-Week Talk). Read & Overview focus: 3% cost problem, drift toward complexity, why foundations destroy charitable capital through avoidable costs. Core frameworks: 3% Cost Problem (arithmetic of costs destroying wealth in low-return environments), Three-Layer Consultant Incentives (perverse structures adding cost and misalignment), Concentration vs. Diversification Trade-off (rational concentration when you understand the business). 5 actionable takeaways: calculate total cost drag, audit for layered complexity, question professional complexity, apply cost-return arithmetic test, recognize overconfidence trap. 5 case snapshots: LTCM collapse (lollapalooza effect of overconfidence + sophistication + leverage), GM fourth door mistake (professionalism over observation), Woodruff Foundation Coca-Cola concentration (wisdom of concentration through understanding), Berkshire low-cost approach (simplicity beats complexity), Fund of Funds revival (social proof recreating failed past models). Mental model drill on Inversion with Day 1 prompts: biggest insight challenging current thinking (professionalism doesn't equal better results), assumption Munger would question (diversification and professional management being inherently good). 3 reflection questions: audit of total investment costs, workplace professionalism complexity analysis, latticework building for incentive-caused bias/overconfidence/social proof/inversion. Personal commitment: calculate total annual investment costs as percentage of principal. Talk 6 focuses on foundation investment practices, showing how incentive-caused bias, overconfidence, and social proof lead foundations to adopt costly, complex consultant structures that destroy charitable capital. Next: Week 8 Day 2 - Mental Models (Incentive-Caused Bias, Overconfidence, Social Proof, Man-with-a-Hammer). Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
