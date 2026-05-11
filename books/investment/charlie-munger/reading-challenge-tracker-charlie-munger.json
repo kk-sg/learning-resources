@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 8,
-  "currentDay": 1,
+  "currentDay": 2,
   "status": "in-progress",
   "schedule": [
     {
@@ -27,6 +27,21 @@
       "fileMessageId": "4465",
       "contentLength": 14412,
       "notes": "Week 8 Day 1 of Talk 6 (Week 1 of 1, Single-Week Talk). Read & Overview focus: 3% cost problem, drift toward complexity, why foundations destroy charitable capital through avoidable costs. Core frameworks: 3% Cost Problem (arithmetic of costs destroying wealth in low-return environments), Three-Layer Consultant Incentives (perverse structures adding cost and misalignment), Concentration vs. Diversification Trade-off (rational concentration when you understand the business). 5 actionable takeaways: calculate total cost drag, audit for layered complexity, question professional complexity, apply cost-return arithmetic test, recognize overconfidence trap. 5 case snapshots: LTCM collapse (lollapalooza effect of overconfidence + sophistication + leverage), GM fourth door mistake (professionalism over observation), Woodruff Foundation Coca-Cola concentration (wisdom of concentration through understanding), Berkshire low-cost approach (simplicity beats complexity), Fund of Funds revival (social proof recreating failed past models). Mental model drill on Inversion with Day 1 prompts: biggest insight challenging current thinking (professionalism doesn't equal better results), assumption Munger would question (diversification and professional management being inherently good). 3 reflection questions: audit of total investment costs, workplace professionalism complexity analysis, latticework building for incentive-caused bias/overconfidence/social proof/inversion. Personal commitment: calculate total annual investment costs as percentage of principal. Talk 6 focuses on foundation investment practices, showing how incentive-caused bias, overconfidence, and social proof lead foundations to adopt costly, complex consultant structures that destroy charitable capital. Next: Week 8 Day 2 - Mental Models (Incentive-Caused Bias, Overconfidence, Social Proof, Man-with-a-Hammer). Message delivered successfully."
+    },
+    {
+      "week": 8,
+      "day": 2,
+      "talkNumber": 6,
+      "talkTitle": "Mental Models in Foundation Investing",
+      "talkSlug": "mental-models-day2",
+      "talkWeek": "1 of 1",
+      "date": "2026-05-11",
+      "focus": "Incentive-Caused Bias, Man-with-a-Hammer, Overconfidence, Social Proof, Lollapalooza",
+      "status": "delivered",
+      "deliveredAt": "2026-05-11T12:02:00.000Z",
+      "messageId": "4478",
+      "contentLength": 14026,
+      "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -35,19 +50,18 @@
   },
   "latestEntry": {
     "week": 8,
-    "day": 1,
+    "day": 2,
     "talkNumber": 6,
-    "talkTitle": "Investment Practices of Leading Charitable Foundations",
-    "talkSlug": "charitable-foundations",
+    "talkTitle": "Mental Models in Foundation Investing",
+    "talkSlug": "mental-models-day2",
     "talkWeek": "1 of 1",
-    "date": "2026-05-10",
-    "focus": "Read & Overview",
+    "date": "2026-05-11",
+    "focus": "Incentive-Caused Bias, Man-with-a-Hammer, Overconfidence, Social Proof, Lollapalooza",
     "status": "delivered",
-    "deliveredAt": "2026-05-10T06:00:00.000Z",
-    "messageId": "4464",
-    "fileMessageId": "4465",
-    "contentLength": 14412,
-    "notes": "Week 8 Day 1 of Talk 6 (Week 1 of 1, Single-Week Talk). Read & Overview focus: 3% cost problem, drift toward complexity, why foundations destroy charitable capital through avoidable costs. Core frameworks: 3% Cost Problem (arithmetic of costs destroying wealth in low-return environments), Three-Layer Consultant Incentives (perverse structures adding cost and misalignment), Concentration vs. Diversification Trade-off (rational concentration when you understand the business). 5 actionable takeaways: calculate total cost drag, audit for layered complexity, question professional complexity, apply cost-return arithmetic test, recognize overconfidence trap. 5 case snapshots: LTCM collapse (lollapalooza effect of overconfidence + sophistication + leverage), GM fourth door mistake (professionalism over observation), Woodruff Foundation Coca-Cola concentration (wisdom of concentration through understanding), Berkshire low-cost approach (simplicity beats complexity), Fund of Funds revival (social proof recreating failed past models). Mental model drill on Inversion with Day 1 prompts: biggest insight challenging current thinking (professionalism doesn't equal better results), assumption Munger would question (diversification and professional management being inherently good). 3 reflection questions: audit of total investment costs, workplace professionalism complexity analysis, latticework building for incentive-caused bias/overconfidence/social proof/inversion. Personal commitment: calculate total annual investment costs as percentage of principal. Talk 6 focuses on foundation investment practices, showing how incentive-caused bias, overconfidence, and social proof lead foundations to adopt costly, complex consultant structures that destroy charitable capital. Next: Week 8 Day 2 - Mental Models (Incentive-Caused Bias, Overconfidence, Social Proof, Man-with-a-Hammer). Message delivered successfully."
+    "deliveredAt": "2026-05-11T12:02:00.000Z",
+    "messageId": "4478",
+    "contentLength": 14026,
+    "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
