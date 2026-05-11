@@ -9,7 +9,7 @@
   "totalWeeks": 16,
   "totalDays": 112,
   "currentWeek": 8,
-  "currentDay": 2,
+  "currentDay": 3,
   "status": "in-progress",
   "schedule": [
     {
@@ -42,6 +42,36 @@
       "messageId": "4478",
       "contentLength": 14026,
       "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
+    },
+    {
+      "week": 8,
+      "day": 3,
+      "talkNumber": 6,
+      "talkTitle": "Inversion: How to Destroy Foundation Wealth",
+      "talkSlug": "inversion-day3",
+      "talkWeek": "1 of 1",
+      "date": "2026-05-12",
+      "focus": "Inversion Thinking, How to Destroy, Feynman's Self-Criticism Principle, Arithmetic of Disaster",
+      "status": "scheduled",
+      "deliveredAt": null,
+      "messageId": null,
+      "contentLength": 13712,
+      "notes": "Week 8 Day 3 of Talk 6 (Inversion Focus). Inversion thinking: how to guarantee failure, then avoid that path. How to destroy foundation wealth: 5% returns - 3% costs - 5% donations = -3% annual shrinkage. 26% destroyed over 10 years, 45% destroyed over 20 years. How to create professional disaster: overconfidence + sophistication + leverage + no self-criticism (GM fourth door, LTCM collapse). How to waste charitable capital: layered consultants, high turnover, blind copying, no self-criticism. The croupier's take: investment costs destroying wealth. Feynman's self-criticism principle: 'You must not fool yourself—and you're the easiest person to fool.' How to avoid fooling yourself: seek disconfirming evidence, challenge assumptions, have trusted advisors challenge your thinking. Solution: eliminate complex consultant layers (1 layer instead of 3), reduce turnover to near zero, choose simplicity (indexing OR concentration, not middle ground), accept realistic returns (5%, not 17%), maintain self-criticism (Feynman principle), align incentives (single layer). Solution arithmetic: reduce costs from 3% to 1% or <0.1% (Berkshire). Bad markets: 5% - 1% - 5% = -1% shrinkage (vs -3%), Good markets: 17% - 1% - 5% = 11% net growth (vs 9%). Berkshire's costs <0.1%: 5% - 0.1% - 5% = -0.1% shrinkage, 17% - 0.1% - 5% = 11.9% net growth. Simplicity as virtue: complexity is expensive (3% cost drag), simplicity is effective (<0.1% costs, more capital retained), middle ground is worst (high costs, poor returns). Key takeaways: use inversion (ask how to guarantee failure, then avoid it), apply Feynman's self-criticism (seek disconfirming evidence), embrace simplicity (avoid complexity), align incentives (single layer). Reflection questions: if foundation returns 5%, how much grows after costs? What professional decisions have overconfidence + no self-criticism? What assumptions might be wrong? How would you guarantee failure in your work? If you save 2% costs annually, how much good over 20 years? Next: Week 8 Day 4 - Career Applications. Content created, delivery scheduled for 21:00."
+    },
+    {
+      "week": 8,
+      "day": 2,
+      "talkNumber": 6,
+      "talkTitle": "Mental Models in Foundation Investing",
+      "talkSlug": "mental-models-day2",
+      "talkWeek": "1 of 1",
+      "date": "2026-05-11",
+      "focus": "Incentive-Caused Bias, Man-with-a-Hammer, Overconfidence, Social Proof, Lollapalooza",
+      "status": "delivered",
+      "deliveredAt": "2026-05-11T12:02:00.000Z",
+      "messageId": "4478",
+      "contentLength": 14026,
+      "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -50,18 +80,18 @@
   },
   "latestEntry": {
     "week": 8,
-    "day": 2,
+    "day": 3,
     "talkNumber": 6,
-    "talkTitle": "Mental Models in Foundation Investing",
-    "talkSlug": "mental-models-day2",
+    "talkTitle": "Inversion: How to Destroy Foundation Wealth",
+    "talkSlug": "inversion-day3",
     "talkWeek": "1 of 1",
-    "date": "2026-05-11",
-    "focus": "Incentive-Caused Bias, Man-with-a-Hammer, Overconfidence, Social Proof, Lollapalooza",
-    "status": "delivered",
-    "deliveredAt": "2026-05-11T12:02:00.000Z",
-    "messageId": "4478",
-    "contentLength": 14026,
-    "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
+    "date": "2026-05-12",
+    "focus": "Inversion Thinking, How to Destroy, Feynman's Self-Criticism Principle, Arithmetic of Disaster",
+    "status": "scheduled",
+    "deliveredAt": null,
+    "messageId": null,
+    "contentLength": 13712,
+    "notes": "Week 8 Day 3 of Talk 6 (Inversion Focus). Inversion thinking: how to guarantee failure, then avoid that path. How to destroy foundation wealth: 5% returns - 3% costs - 5% donations = -3% annual shrinkage. 26% destroyed over 10 years, 45% destroyed over 20 years. How to create professional disaster: overconfidence + sophistication + leverage + no self-criticism (GM fourth door, LTCM collapse). How to waste charitable capital: layered consultants, high turnover, blind copying, no self-criticism. The croupier's take: investment costs destroying wealth. Feynman's self-criticism principle: 'You must not fool yourself—and you're the easiest person to fool.' How to avoid fooling yourself: seek disconfirming evidence, challenge assumptions, have trusted advisors challenge your thinking. Solution: eliminate complex consultant layers (1 layer instead of 3), reduce turnover to near zero, choose simplicity (indexing OR concentration, not middle ground), accept realistic returns (5%, not 17%), maintain self-criticism (Feynman principle), align incentives (single layer). Solution arithmetic: reduce costs from 3% to 1% or <0.1% (Berkshire). Bad markets: 5% - 1% - 5% = -1% shrinkage (vs -3%), Good markets: 17% - 1% - 5% = 11% net growth (vs 9%). Berkshire's costs <0.1%: 5% - 0.1% - 5% = -0.1% shrinkage, 17% - 0.1% - 5% = 11.9% net growth. Simplicity as virtue: complexity is expensive (3% cost drag), simplicity is effective (<0.1% costs, more capital retained), middle ground is worst (high costs, poor returns). Key takeaways: use inversion (ask how to guarantee failure, then avoid it), apply Feynman's self-criticism (seek disconfirming evidence), embrace simplicity (avoid complexity), align incentives (single layer). Reflection questions: if foundation returns 5%, how much grows after costs? What professional decisions have overconfidence + no self-criticism? What assumptions might be wrong? How would you guarantee failure in your work? If you save 2% costs annually, how much good over 20 years? Next: Week 8 Day 4 - Career Applications. Content created, delivery scheduled for 21:00."
   },
   "masterResearchSchedule": [
     {
