@@ -193,11 +193,11 @@
       "talkSlug": "financial-scandal-2003",
       "date": "2026-05-23",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 10 (Talk 8 starts May 24, 2026)"
+      "status": "completed",
+      "completedAt": "2026-05-22T01:05:00.000Z",
+      "outputFile": "master-notes-talk08.md",
+      "researchSources": ["100investmentbooksayear.wordpress.com detailed summary", "Tilsonfunds.com notes on Quant Tech hypothetical scandal", "ValueWalk.com article on Quant Tech morality play", "Gurufocus.com excerpts on founder principles", "Context: Enron/WorldCom era scandals and stock option accounting debates"],
+      "notes": "Completed for Week 10 (Talk 8 starts May 24, 2026). Note: Full transcript not accessible; research based on detailed summaries and excerpts from multiple sources."
     },
     {
       "type": "master-research",
