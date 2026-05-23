@@ -8,8 +8,8 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 8,
-  "currentDay": 3,
+  "currentWeek": 10,
+  "currentDay": 1,
   "status": "in-progress",
   "schedule": [
     {
@@ -60,6 +60,22 @@
       "notes": "Week 8 Day 3 of Talk 6 (Inversion Focus). Inversion thinking: how to guarantee failure, then avoid that path. How to destroy foundation wealth: 5% returns - 3% costs - 5% donations = -3% annual shrinkage. 26% destroyed over 10 years, 45% destroyed over 20 years. How to create professional disaster: overconfidence + sophistication + leverage + no self-criticism (GM fourth door, LTCM collapse). How to waste charitable capital: layered consultants, high turnover, blind copying, no self-criticism. The croupier's take: investment costs destroying wealth. Feynman's self-criticism principle: 'You must not fool yourself—and you're the easiest person to fool.' How to avoid fooling yourself: seek disconfirming evidence, challenge assumptions, have trusted advisors challenge your thinking. Solution: eliminate complex consultant layers (1 layer instead of 3), reduce turnover to near zero, choose simplicity (indexing OR concentration, not middle ground), accept realistic returns (5%, not 17%), maintain self-criticism (Feynman principle), align incentives (single layer). Solution arithmetic: reduce costs from 3% to 1% or <0.1% (Berkshire). Bad markets: 5% - 1% - 5% = -1% shrinkage (vs -3%), Good markets: 17% - 1% - 5% = 11% net growth (vs 9%). Berkshire's costs <0.1%: 5% - 0.1% - 5% = -0.1% shrinkage, 17% - 0.1% - 5% = 11.9% net growth. Simplicity as virtue: complexity is expensive (3% cost drag), simplicity is effective (<0.1% costs, more capital retained), middle ground is worst (high costs, poor returns). Key takeaways: use inversion (ask how to guarantee failure, then avoid it), apply Feynman's self-criticism (seek disconfirming evidence), embrace simplicity (avoid complexity), align incentives (single layer). Reflection questions: if foundation returns 5%, how much grows after costs? What professional decisions have overconfidence + no self-criticism? What assumptions might be wrong? How would you guarantee failure in your work? If you save 2% costs annually, how much good over 20 years? Next: Week 8 Day 4 - Career Applications. Message delivered successfully."
     },
     {
+      "week": 10,
+      "day": 1,
+      "talkNumber": 8,
+      "talkTitle": "The Great Financial Scandal of 2003",
+      "talkSlug": "financial-scandal-2003",
+      "talkWeek": "1 of 1",
+      "date": "2026-05-24",
+      "focus": "Read & Overview",
+      "status": "delivered",
+      "deliveredAt": "2026-05-24T06:00:00.000Z",
+      "messageId": "4499",
+      "fileMessageId": "4500",
+      "contentLength": 16476,
+      "notes": "Week 10 Day 1 of Talk 8 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's prophetic warning about accounting practices that would trigger Enron/WorldCom era scandals. Core frameworks: Stock Option Accounting Anomaly (GAAP loophole where options are tax-deductible but not expensed on income statement), 'Bit by Bit' Fraud Technique (gradual distortions accumulate, avoiding detection), Earnings Smoothing Incentive (analysts reward smooth growth, creating perverse incentives). 5 actionable takeaways: read stock options footnote first, question 'too smooth' earnings, avoid buyback + option combos, check auditor tenure, calculate true economic earnings. 5 case snapshots: Quant Tech fictional case (founder vs. successor eras), Enron (Munger's prediction confirmed), WorldCom (capitalizing expenses), Berkshire (anti-Quant Tech), contemporary tech startups (Quant Tech reborn). Mental model drill on Incentive-Caused Bias with Day 1 prompts: biggest insight challenging current thinking (smooth earnings != good management), assumption Munger would question (trust in audited statements). 3 reflection questions: audit of stock options footnote reading, workplace incentive alignment analysis, latticework building for incentives across domains. Personal commitment: read stock-based compensation footnote of one company. Talk 8 focuses on accounting fraud and stock option manipulation, showing how incentives, flawed accounting rules, and human psychology combine to create predictable financial disasters. Next: Week 10 Day 2 - Mental Models (Incentive-Caused Bias, Inversion, Inconsistency-Avoidance, Man-with-a-Hammer). Message delivered successfully."
+    },
+    {
       "week": 8,
       "day": 2,
       "talkNumber": 6,
@@ -80,19 +96,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 8,
-    "day": 3,
-    "talkNumber": 6,
-    "talkTitle": "Inversion: How to Destroy Foundation Wealth",
-    "talkSlug": "inversion-day3",
+    "week": 10,
+    "day": 1,
+    "talkNumber": 8,
+    "talkTitle": "The Great Financial Scandal of 2003",
+    "talkSlug": "financial-scandal-2003",
     "talkWeek": "1 of 1",
-    "date": "2026-05-12",
-    "focus": "Inversion Thinking, How to Destroy, Feynman's Self-Criticism Principle, Arithmetic of Disaster",
-    "status": "scheduled",
-    "deliveredAt": null,
-    "messageId": null,
-    "contentLength": 13712,
-    "notes": "Week 8 Day 3 of Talk 6 (Inversion Focus). Inversion thinking: how to guarantee failure, then avoid that path. How to destroy foundation wealth: 5% returns - 3% costs - 5% donations = -3% annual shrinkage. 26% destroyed over 10 years, 45% destroyed over 20 years. How to create professional disaster: overconfidence + sophistication + leverage + no self-criticism (GM fourth door, LTCM collapse). How to waste charitable capital: layered consultants, high turnover, blind copying, no self-criticism. The croupier's take: investment costs destroying wealth. Feynman's self-criticism principle: 'You must not fool yourself—and you're the easiest person to fool.' How to avoid fooling yourself: seek disconfirming evidence, challenge assumptions, have trusted advisors challenge your thinking. Solution: eliminate complex consultant layers (1 layer instead of 3), reduce turnover to near zero, choose simplicity (indexing OR concentration, not middle ground), accept realistic returns (5%, not 17%), maintain self-criticism (Feynman principle), align incentives (single layer). Solution arithmetic: reduce costs from 3% to 1% or <0.1% (Berkshire). Bad markets: 5% - 1% - 5% = -1% shrinkage (vs -3%), Good markets: 17% - 1% - 5% = 11% net growth (vs 9%). Berkshire's costs <0.1%: 5% - 0.1% - 5% = -0.1% shrinkage, 17% - 0.1% - 5% = 11.9% net growth. Simplicity as virtue: complexity is expensive (3% cost drag), simplicity is effective (<0.1% costs, more capital retained), middle ground is worst (high costs, poor returns). Key takeaways: use inversion (ask how to guarantee failure, then avoid it), apply Feynman's self-criticism (seek disconfirming evidence), embrace simplicity (avoid complexity), align incentives (single layer). Reflection questions: if foundation returns 5%, how much grows after costs? What professional decisions have overconfidence + no self-criticism? What assumptions might be wrong? How would you guarantee failure in your work? If you save 2% costs annually, how much good over 20 years? Next: Week 8 Day 4 - Career Applications. Content created, delivery scheduled for 21:00."
+    "date": "2026-05-24",
+    "focus": "Read & Overview",
+    "status": "delivered",
+    "deliveredAt": "2026-05-24T06:00:00.000Z",
+    "messageId": "4499",
+    "fileMessageId": "4500",
+    "contentLength": 16476,
+    "notes": "Week 10 Day 1 of Talk 8 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's prophetic warning about accounting practices that would trigger Enron/WorldCom era scandals. Core frameworks: Stock Option Accounting Anomaly (GAAP loophole where options are tax-deductible but not expensed on income statement), 'Bit by Bit' Fraud Technique (gradual distortions accumulate, avoiding detection), Earnings Smoothing Incentive (analysts reward smooth growth, creating perverse incentives). 5 actionable takeaways: read stock options footnote first, question 'too smooth' earnings, avoid buyback + option combos, check auditor tenure, calculate true economic earnings. 5 case snapshots: Quant Tech fictional case (founder vs. successor eras), Enron (Munger's prediction confirmed), WorldCom (capitalizing expenses), Berkshire (anti-Quant Tech), contemporary tech startups (Quant Tech reborn). Mental model drill on Incentive-Caused Bias with Day 1 prompts: biggest insight challenging current thinking (smooth earnings != good management), assumption Munger would question (trust in audited statements). 3 reflection questions: audit of stock options footnote reading, workplace incentive alignment analysis, latticework building for incentives across domains. Personal commitment: read stock-based compensation footnote of one company. Talk 8 focuses on accounting fraud and stock option manipulation, showing how incentives, flawed accounting rules, and human psychology combine to create predictable financial disasters. Next: Week 10 Day 2 - Mental Models (Incentive-Caused Bias, Inversion, Inconsistency-Avoidance, Man-with-a-Hammer). Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
