@@ -197,11 +197,11 @@
       "talkSlug": "philanthropy-roundtable",
       "date": "2026-05-16",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 9 (Talk 7 starts May 17, 2026)"
+      "status": "completed",
+      "completedAt": "2026-05-25T01:00:00.000Z",
+      "outputFile": "master-notes-talk07.md",
+      "researchSources": ["granitefirm.com blog summary", "100investmentbooksayear.wordpress.com review", "kingswell.io febezzlement analysis", "azquotes.com key quotes", "Medium.com quote collection", "tilsonfunds.com institutional funds management"],
+      "notes": "Completed for Week 9 (Talk 7 starts May 17, 2026). Key concept: Febezzlement (functional embezzlement created by unnecessary investment costs). 3% annual drain on foundation assets. Wealth effects and economic impact. Lemming-like institutional behavior."
     },
     {
       "type": "master-research",
