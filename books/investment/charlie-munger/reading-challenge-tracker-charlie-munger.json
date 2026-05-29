@@ -223,11 +223,11 @@
       "talkSlug": "academic-economics",
       "date": "2026-05-30",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 11 (Talk 9 starts May 31, 2026)"
+      "status": "completed",
+      "completedAt": "2026-05-29T01:00:00.000Z",
+      "outputFile": "master-notes-talk09.md",
+      "researchSources": ["Poor Charlie's Almanack - Archive.org", "Farnam Street (fs.blog) summaries", "ValueWalk Munger economics critiques", "Academic responses to Munger's critiques", "LTCM collapse analysis", "Efficient Market Hypothesis debates"],
+      "notes": "Completed for Week 11 (Talk 9 starts May 31, 2026). Key insights: Physics envy, micro vs. macro economics split, rationality assumptions are wrong, markets often inefficient. Major case studies: LTCM (Nobel laureates failed), 2008 crisis (academic models missed it), Berkshire vs. EMH (beating the market). Core message: Economics is valuable as a framework but flawed as a predictor. Needs psychology, accepts uncertainty, abandons physics envy."
     },
     {
       "type": "master-research",
