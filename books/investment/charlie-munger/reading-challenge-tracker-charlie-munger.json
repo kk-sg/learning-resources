@@ -8,7 +8,7 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 10,
+  "currentWeek": 12,
   "currentDay": 1,
   "status": "in-progress",
   "schedule": [
@@ -89,6 +89,22 @@
       "messageId": "4478",
       "contentLength": 14026,
       "notes": "Week 8 Day 2 of Talk 6 (Mental Models Focus). Four mental models: Incentive-Caused Bias (three-layer consultant structure creating perverse incentives, GM's fourth door mistake), Man-with-a-Hammer Syndrome (foundations copying Yale's complex fund-of-funds, LTCM collapse as lollapalooza effect), Overconfidence Bias (90% of Swedish drivers rate above average, investment professionals overestimate abilities, Feynman's self-criticism principle), Social Proof (Yale model contagion through institutions, Demosthenes quote 'What a man wishes, he will believe', consultant feedback loop). Lollapalooza Effect defined: multiple biases reinforcing each other (incentives + overconfidence + social proof + availability + liking + authority). Arithmetic: 17% - 3% costs - 5% donations = 9% net growth (good times); 5% - 3% costs - 5% donations = -3% shrinkage (bad times). Foundations lose 3% annually in bad markets. Berkshire's approach: <0.1% costs, zero turnover, few positions, deep understanding. Key takeaways: structure incentives first, question social proof, recognize overconfidence, watch for lollapalooza, simplicity beats complexity. Reflection questions: if consultant wanted max impact/min cost, what would they recommend? What professional confidence might be unwarranted? What are you doing 'because everyone else does it'? Are multiple forces pushing you toward complexity? Next: Week 8 Day 3 - Inversion. Message delivered successfully."
+    },
+    {
+      "week": 12,
+      "day": 1,
+      "talkNumber": 9,
+      "talkTitle": "Academic Economics: Strengths and Weaknesses",
+      "talkSlug": "academic-economics",
+      "talkWeek": "2 of 2",
+      "date": "2026-06-07",
+      "focus": "Better Approaches to Economic Thinking (Multidisciplinary Economics)",
+      "status": "delivered",
+      "deliveredAt": "2026-06-07T00:00:00.000Z",
+      "messageId": "4514",
+      "fileMessageId": "4515",
+      "contentLength": 14084,
+      "notes": "Week 12 Day 1 of Talk 9 (Week 2 of 2, Multi-Week Talk). Better Approaches focus: Multidisciplinary economics, scenario thinking vs forecasting, circle of competence applied to economics. Core frameworks: Multidisciplinary Economics (combine insights from psychology, biology, history, practical business experience), Scenario Thinking vs Forecasting (build systems robust across scenarios instead of predicting), Circle of Competence Applied to Economics (recognize limits of knowledge and complexity). 5 actionable takeaways: add psychological layers to every economic analysis, replace forecasts with scenario analysis, practice physics envy detection, build economic latticework, prioritize rough-but-right over precise-but-wrong. 5 case snapshots: Berkshire vs EMH (beating the market for decades), LTCM collapse (Nobel laureates failed due to physics envy), 2008 Financial Crisis (models ignored incentives and psychology), Market Bubbles Throughout History (psychology trumps models), Inversion Case (forecasting trap - confidence kills). Mental model drill on Multidisciplinary Economics with Day 1 prompts: biggest insight challenging current thinking (elegance doesn't equal accuracy), assumption Munger would question (reliance on economic models/forecasts). 3 reflection questions: audit of economic analysis for flawed assumptions, workplace incentives for false confidence in predictions, latticework building across disciplines. Personal commitment: audit one economic analysis/forecast by adding psychological factors and questioning assumptions. Talk 9 Week 2 focuses on constructive solutions to economic thinking problems: incorporate psychology, accept uncertainty, use multidisciplinary mental models. Next: Week 12 Day 2 - Mental Models for Economic Analysis. Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -96,20 +112,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 10,
+    "week": 12,
     "day": 1,
-    "talkNumber": 8,
-    "talkTitle": "The Great Financial Scandal of 2003",
-    "talkSlug": "financial-scandal-2003",
-    "talkWeek": "1 of 1",
-    "date": "2026-05-24",
-    "focus": "Read & Overview",
+    "talkNumber": 9,
+    "talkTitle": "Academic Economics: Strengths and Weaknesses",
+    "talkSlug": "academic-economics",
+    "talkWeek": "2 of 2",
+    "date": "2026-06-07",
+    "focus": "Better Approaches to Economic Thinking (Multidisciplinary Economics)",
     "status": "delivered",
-    "deliveredAt": "2026-05-24T06:00:00.000Z",
-    "messageId": "4499",
-    "fileMessageId": "4500",
-    "contentLength": 16476,
-    "notes": "Week 10 Day 1 of Talk 8 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's prophetic warning about accounting practices that would trigger Enron/WorldCom era scandals. Core frameworks: Stock Option Accounting Anomaly (GAAP loophole where options are tax-deductible but not expensed on income statement), 'Bit by Bit' Fraud Technique (gradual distortions accumulate, avoiding detection), Earnings Smoothing Incentive (analysts reward smooth growth, creating perverse incentives). 5 actionable takeaways: read stock options footnote first, question 'too smooth' earnings, avoid buyback + option combos, check auditor tenure, calculate true economic earnings. 5 case snapshots: Quant Tech fictional case (founder vs. successor eras), Enron (Munger's prediction confirmed), WorldCom (capitalizing expenses), Berkshire (anti-Quant Tech), contemporary tech startups (Quant Tech reborn). Mental model drill on Incentive-Caused Bias with Day 1 prompts: biggest insight challenging current thinking (smooth earnings != good management), assumption Munger would question (trust in audited statements). 3 reflection questions: audit of stock options footnote reading, workplace incentive alignment analysis, latticework building for incentives across domains. Personal commitment: read stock-based compensation footnote of one company. Talk 8 focuses on accounting fraud and stock option manipulation, showing how incentives, flawed accounting rules, and human psychology combine to create predictable financial disasters. Next: Week 10 Day 2 - Mental Models (Incentive-Caused Bias, Inversion, Inconsistency-Avoidance, Man-with-a-Hammer). Message delivered successfully."
+    "deliveredAt": "2026-06-07T00:00:00.000Z",
+    "messageId": "4514",
+    "fileMessageId": "4515",
+    "contentLength": 14084,
+    "notes": "Week 12 Day 1 of Talk 9 (Week 2 of 2, Multi-Week Talk). Better Approaches focus: Multidisciplinary economics, scenario thinking vs forecasting, circle of competence applied to economics. Core frameworks: Multidisciplinary Economics (combine insights from psychology, biology, history, practical business experience), Scenario Thinking vs Forecasting (build systems robust across scenarios instead of predicting), Circle of Competence Applied to Economics (recognize limits of knowledge and complexity). 5 actionable takeaways: add psychological layers to every economic analysis, replace forecasts with scenario analysis, practice physics envy detection, build economic latticework, prioritize rough-but-right over precise-but-wrong. 5 case snapshots: Berkshire vs EMH (beating the market for decades), LTCM collapse (Nobel laureates failed due to physics envy), 2008 Financial Crisis (models ignored incentives and psychology), Market Bubbles Throughout History (psychology trumps models), Inversion Case (forecasting trap - confidence kills). Mental model drill on Multidisciplinary Economics with Day 1 prompts: biggest insight challenging current thinking (elegance doesn't equal accuracy), assumption Munger would question (reliance on economic models/forecasts). 3 reflection questions: audit of economic analysis for flawed assumptions, workplace incentives for false confidence in predictions, latticework building across disciplines. Personal commitment: audit one economic analysis/forecast by adding psychological factors and questioning assumptions. Talk 9 Week 2 focuses on constructive solutions to economic thinking problems: incorporate psychology, accept uncertainty, use multidisciplinary mental models. Next: Week 12 Day 2 - Mental Models for Economic Analysis. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
