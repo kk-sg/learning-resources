@@ -252,11 +252,11 @@
       "talkSlug": "usc-law-commencement",
       "date": "2026-06-13",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 13 (Talk 10 starts June 14, 2026)"
+      "status": "completed",
+      "completedAt": "2026-06-12T01:01:00.000Z",
+      "outputFile": "master-notes-talk10.md",
+      "researchSources": ["Full transcript from deeshaa.org (June 6, 2007)", "Summary notes on deeshaa.org (February 13, 2010)", "ValueInvestingWorld.com transcription", "USC Gould School of Law commencement news", "Stripe Press mention in expanded third edition", "Worldly Partners archive reference"],
+      "notes": "Completed for Week 13 (Talk 10 starts June 14, 2026). Key themes: deserve what you want, wisdom as moral duty, multidisciplinary latticework, inversion thinking, 18 specific life principles. Mental models: Inversion, Self-Serving Bias, Multidisciplinary Approach, Latticework, Incentive-Caused Bias, Objectivity Maintenance, Non-Egality, Planck vs Chauffeur Knowledge, Checklists, Seamless Web of Deserved Trust. 10 case studies from Munger's life and observations. Practical applied wisdom for entering professionals at age 84."
     },
     {
       "type": "master-research",
