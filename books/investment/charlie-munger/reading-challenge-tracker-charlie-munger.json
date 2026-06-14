@@ -8,7 +8,7 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 12,
+  "currentWeek": 13,
   "currentDay": 1,
   "status": "in-progress",
   "schedule": [
@@ -105,6 +105,22 @@
       "fileMessageId": "4515",
       "contentLength": 14084,
       "notes": "Week 12 Day 1 of Talk 9 (Week 2 of 2, Multi-Week Talk). Better Approaches focus: Multidisciplinary economics, scenario thinking vs forecasting, circle of competence applied to economics. Core frameworks: Multidisciplinary Economics (combine insights from psychology, biology, history, practical business experience), Scenario Thinking vs Forecasting (build systems robust across scenarios instead of predicting), Circle of Competence Applied to Economics (recognize limits of knowledge and complexity). 5 actionable takeaways: add psychological layers to every economic analysis, replace forecasts with scenario analysis, practice physics envy detection, build economic latticework, prioritize rough-but-right over precise-but-wrong. 5 case snapshots: Berkshire vs EMH (beating the market for decades), LTCM collapse (Nobel laureates failed due to physics envy), 2008 Financial Crisis (models ignored incentives and psychology), Market Bubbles Throughout History (psychology trumps models), Inversion Case (forecasting trap - confidence kills). Mental model drill on Multidisciplinary Economics with Day 1 prompts: biggest insight challenging current thinking (elegance doesn't equal accuracy), assumption Munger would question (reliance on economic models/forecasts). 3 reflection questions: audit of economic analysis for flawed assumptions, workplace incentives for false confidence in predictions, latticework building across disciplines. Personal commitment: audit one economic analysis/forecast by adding psychological factors and questioning assumptions. Talk 9 Week 2 focuses on constructive solutions to economic thinking problems: incorporate psychology, accept uncertainty, use multidisciplinary mental models. Next: Week 12 Day 2 - Mental Models for Economic Analysis. Message delivered successfully."
+    },
+    {
+      "week": 13,
+      "day": 1,
+      "talkNumber": 10,
+      "talkTitle": "USC Gould School of Law Commencement Address",
+      "talkSlug": "usc-law-commencement",
+      "talkWeek": "1 of 1",
+      "date": "2026-06-15",
+      "focus": "Read & Overview",
+      "status": "delivered",
+      "deliveredAt": "2026-06-15T00:00:00.000Z",
+      "messageId": "4525",
+      "fileMessageId": "4526",
+      "contentLength": 14877,
+      "notes": "Week 13 Day 1 of Talk 10 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's most personal and practical talk - 84 years of wisdom for entering professionals. Core frameworks: Deserve What You Want (trust-building principle), Learning Machine (continuous knowledge acquisition), Seamless Web of Deserved Trust (civilization model). 5 actionable takeaways: deliver what you would buy, choose employers you admire, avoid unreliability, practice assiduity, recognize self-serving bias. 5 case snapshots: Max Planck vs Chauffeur (surface vs deep knowledge), John Wooden's non-egalitarian coaching, Mozart's financial mismanagement (self-serving bias), Epictetus's response to setbacks, two-man partnership's assiduity rule. Mental model drill on Seamless Web of Deserved Trust with Day 1 prompts: biggest insight (success comes from earning merit, not shortcuts), assumption (bureaucracy is necessary vs symptom of missing trust). 3 reflection questions: audit recent work quality, examine trust in current environment, start daily learning habit. Personal commitment: apply 'deserve what you want' test to one piece of work. Talk 10 synthesizes themes from earlier talks but applies them personally - character traits, habits, and choices for life success. Next: Week 13 Day 2 - Mental Models (Deserve What You Want, Learning Machine, Seamless Web of Trust). Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -112,20 +128,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 12,
+    "week": 13,
     "day": 1,
-    "talkNumber": 9,
-    "talkTitle": "Academic Economics: Strengths and Weaknesses",
-    "talkSlug": "academic-economics",
-    "talkWeek": "2 of 2",
-    "date": "2026-06-07",
-    "focus": "Better Approaches to Economic Thinking (Multidisciplinary Economics)",
+    "talkNumber": 10,
+    "talkTitle": "USC Gould School of Law Commencement Address",
+    "talkSlug": "usc-law-commencement",
+    "talkWeek": "1 of 1",
+    "date": "2026-06-15",
+    "focus": "Read & Overview",
     "status": "delivered",
-    "deliveredAt": "2026-06-07T00:00:00.000Z",
-    "messageId": "4514",
-    "fileMessageId": "4515",
-    "contentLength": 14084,
-    "notes": "Week 12 Day 1 of Talk 9 (Week 2 of 2, Multi-Week Talk). Better Approaches focus: Multidisciplinary economics, scenario thinking vs forecasting, circle of competence applied to economics. Core frameworks: Multidisciplinary Economics (combine insights from psychology, biology, history, practical business experience), Scenario Thinking vs Forecasting (build systems robust across scenarios instead of predicting), Circle of Competence Applied to Economics (recognize limits of knowledge and complexity). 5 actionable takeaways: add psychological layers to every economic analysis, replace forecasts with scenario analysis, practice physics envy detection, build economic latticework, prioritize rough-but-right over precise-but-wrong. 5 case snapshots: Berkshire vs EMH (beating the market for decades), LTCM collapse (Nobel laureates failed due to physics envy), 2008 Financial Crisis (models ignored incentives and psychology), Market Bubbles Throughout History (psychology trumps models), Inversion Case (forecasting trap - confidence kills). Mental model drill on Multidisciplinary Economics with Day 1 prompts: biggest insight challenging current thinking (elegance doesn't equal accuracy), assumption Munger would question (reliance on economic models/forecasts). 3 reflection questions: audit of economic analysis for flawed assumptions, workplace incentives for false confidence in predictions, latticework building across disciplines. Personal commitment: audit one economic analysis/forecast by adding psychological factors and questioning assumptions. Talk 9 Week 2 focuses on constructive solutions to economic thinking problems: incorporate psychology, accept uncertainty, use multidisciplinary mental models. Next: Week 12 Day 2 - Mental Models for Economic Analysis. Message delivered successfully."
+    "deliveredAt": "2026-06-15T00:00:00.000Z",
+    "messageId": "4525",
+    "fileMessageId": "4526",
+    "contentLength": 14877,
+    "notes": "Week 13 Day 1 of Talk 10 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's most personal and practical talk - 84 years of wisdom for entering professionals. Core frameworks: Deserve What You Want (trust-building principle), Learning Machine (continuous knowledge acquisition), Seamless Web of Deserved Trust (civilization model). 5 actionable takeaways: deliver what you would buy, choose employers you admire, avoid unreliability, practice assiduity, recognize self-serving bias. 5 case snapshots: Max Planck vs Chauffeur (surface vs deep knowledge), John Wooden's non-egalitarian coaching, Mozart's financial mismanagement (self-serving bias), Epictetus's response to setbacks, two-man partnership's assiduity rule. Mental model drill on Seamless Web of Deserved Trust with Day 1 prompts: biggest insight (success comes from earning merit, not shortcuts), assumption (bureaucracy is necessary vs symptom of missing trust). 3 reflection questions: audit recent work quality, examine trust in current environment, start daily learning habit. Personal commitment: apply 'deserve what you want' test to one piece of work. Talk 10 synthesizes themes from earlier talks but applies them personally - character traits, habits, and choices for life success. Next: Week 13 Day 2 - Mental Models (Deserve What You Want, Learning Machine, Seamless Web of Trust). Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
