@@ -281,11 +281,11 @@
       "talkSlug": "psychology-human-misjudgment",
       "date": "2026-06-20",
       "scheduledTime": "09:00",
-      "status": "scheduled",
-      "completedAt": null,
-      "outputFile": null,
-      "researchSources": [],
-      "notes": "Scheduled for Week 14 (Talk 11 starts June 21, 2026)"
+      "status": "completed",
+      "completedAt": "2026-06-21T01:00:00.000Z",
+      "outputFile": "master-notes-talk11.md",
+      "researchSources": ["Farnam Street (fs.blog) - Transcript", "James Clear - Full transcript", "Acquirers Multiple - Audio and transcript", "Rational Walk - Deprival Superreaction", "Safal Niveshak - Deprival Superreaction", "Value of Stock - Lollapalooza", "Sloww.co - Psychology of Human Misjudgment", "25cognitivebiases.com - PDF", "Rick Lindquist - Notes"],
+      "notes": "Completed late - originally scheduled for June 20, executed June 21 (Talk 11 starts today). Covers all 25 tendencies and Lollapalooza effect."
     }
   ]
 }
