@@ -8,8 +8,8 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 13,
-  "currentDay": 1,
+  "currentWeek": 14,
+  "currentDay": 3,
   "status": "in-progress",
   "schedule": [
     {
@@ -121,6 +121,38 @@
       "fileMessageId": "4526",
       "contentLength": 14877,
       "notes": "Week 13 Day 1 of Talk 10 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's most personal and practical talk - 84 years of wisdom for entering professionals. Core frameworks: Deserve What You Want (trust-building principle), Learning Machine (continuous knowledge acquisition), Seamless Web of Deserved Trust (civilization model). 5 actionable takeaways: deliver what you would buy, choose employers you admire, avoid unreliability, practice assiduity, recognize self-serving bias. 5 case snapshots: Max Planck vs Chauffeur (surface vs deep knowledge), John Wooden's non-egalitarian coaching, Mozart's financial mismanagement (self-serving bias), Epictetus's response to setbacks, two-man partnership's assiduity rule. Mental model drill on Seamless Web of Deserved Trust with Day 1 prompts: biggest insight (success comes from earning merit, not shortcuts), assumption (bureaucracy is necessary vs symptom of missing trust). 3 reflection questions: audit recent work quality, examine trust in current environment, start daily learning habit. Personal commitment: apply 'deserve what you want' test to one piece of work. Talk 10 synthesizes themes from earlier talks but applies them personally - character traits, habits, and choices for life success. Next: Week 13 Day 2 - Mental Models (Deserve What You Want, Learning Machine, Seamless Web of Trust). Message delivered successfully."
+    },
+    {
+      "week": 14,
+      "day": 3,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "1 of 3",
+      "date": "2026-06-23",
+      "focus": "Inversion Thinking — How Psychological Tendencies Destroy Decision-Making",
+      "status": "delivered",
+      "deliveredAt": "2026-06-23T06:00:00.000Z",
+      "messageId": "4543",
+      "fileMessageId": "4544",
+      "contentLength": 26177,
+      "notes": "Week 14 Day 3 of Talk 11 (Week 1 of 3, Multi-Week Talk). Inversion Focus: Four paths to ruin from combining psychological tendencies. Core frameworks: The Ego Loop (Self-Regard + Overoptimism + Doubt-Avoidance + Inconsistency), The Social Trap (Social Proof + Reciprocation + Liking + Authority), The Loss Spiral (Deprival-Superreaction + Denial + Commitment + Stress), The Information Chamber (Availability + Contrast + Association + Reward). Lollapalooza Effect: Single tendency = 1x, Two tendencies = 10x, Three+ tendencies = 50-100x impact. Structural solutions: Pre-mortems, Designated Dissenters, Pre-committed Exits, Reality Checks, Lollapalooza Mapping. 5 actionable takeaways: Build pre-mortems into decision process, Appoint designated dissenters, Pre-commit exit rules before entering, Do weekly reality checks, Map Lollapalooza effects. 5 case snapshots: Theranos collapse (Ego + Denial + Authority), Ford Pinto disaster (Incentives + Denial + Authority), Moonies recruitment (Isolation + Liking + Commitment), Berkshire Hathaway culture (Anti-Lollapalooza), AI safety and Lollapalooza risk. 5 reflection questions: What was your last major decision? Write a pre-mortem. Who is your designated dissenter? What exit rules have you pre-committed? What echo chamber are you in? What Lollapalooza effects operate in your life? Personal commitment: Write a pre-mortem for one major upcoming decision. Key insight: You cannot eliminate psychological tendencies (they're hardwired), but you can design systems that break their destructive loops. Next: Week 14 Day 4 - Career Applications. Message delivered successfully."
+    },
+    {
+      "week": 14,
+      "day": 4,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "1 of 3",
+      "date": "2026-06-24",
+      "focus": "Career Applications — How Psychological Tendencies Shape Work Decisions",
+      "status": "delivered",
+      "deliveredAt": "2026-06-24T06:00:00.000Z",
+      "messageId": null,
+      "fileMessageId": null,
+      "contentLength": 14104,
+      "notes": "Week 14 Day 4 of Talk 11 (Week 1 of 3, Multi-Week Talk). Career & Professional Focus: Applying psychological tendencies to workplace scenarios. Core frameworks: Career Inversion Audit (write 'Prescription for Career Misery' before major decisions), Workplace Incentive Alignment (design systems that harness Reward Superresponse for good outcomes), Professional Doubt-Avoidance Detector (mental alarm system for quick decisions). 5 actionable takeaways: write 3-bullet 'Prescription for Career Misery' before major decisions, create 'Psychology Checklist' for job offers, apply Inversion to career ruin (overestimate abilities + rush decisions + refuse change + avoid challenge), design systems to break bad psychological loops, neutralize Liking/Disliking tendency by asking 'would I still choose this without knowing who is involved?'. 5 case snapshots: GM fourth door mistake (Inconsistency-Avoidance + Excessive Self-Regard), 2023 tech layoff herd (Social Proof + Availability), promotion based on liking (Liking/Loving + Excessive Self-Regard), Berkshire executive compensation design (harnessing Reward Superresponse), cult-like company culture (Lollapalooza: Authority + Social Proof + Commitment + Doubt-Avoidance). Mental model drill on Career Inversion: what would Munger advise differently in current work situation? how to apply these principles in next career decision? 5 reflection questions: audit of recent quick work decisions (Doubt-Avoidance), workplace incentive structures analysis, choose one tendency affecting career + countermeasure, last major career decision psychological audit, professional ethics scenario (promotion based on liking). Personal commitment: identify ONE psychological tendency influencing a current work decision and write a specific countermeasure. Next: Week 14 Day 5 - Psychology & Bias Focus. Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -128,20 +160,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 13,
-    "day": 1,
-    "talkNumber": 10,
-    "talkTitle": "USC Gould School of Law Commencement Address",
-    "talkSlug": "usc-law-commencement",
-    "talkWeek": "1 of 1",
-    "date": "2026-06-15",
-    "focus": "Read & Overview",
+    "week": 14,
+    "day": 3,
+    "talkNumber": 11,
+    "talkTitle": "The Psychology of Human Misjudgment",
+    "talkSlug": "psychology-human-misjudgment",
+    "talkWeek": "1 of 3",
+    "date": "2026-06-23",
+    "focus": "Inversion Thinking — How Psychological Tendencies Destroy Decision-Making",
     "status": "delivered",
-    "deliveredAt": "2026-06-15T00:00:00.000Z",
-    "messageId": "4525",
-    "fileMessageId": "4526",
-    "contentLength": 14877,
-    "notes": "Week 13 Day 1 of Talk 10 (Week 1 of 1, Single-Week Talk). Read & Overview focus: Munger's most personal and practical talk - 84 years of wisdom for entering professionals. Core frameworks: Deserve What You Want (trust-building principle), Learning Machine (continuous knowledge acquisition), Seamless Web of Deserved Trust (civilization model). 5 actionable takeaways: deliver what you would buy, choose employers you admire, avoid unreliability, practice assiduity, recognize self-serving bias. 5 case snapshots: Max Planck vs Chauffeur (surface vs deep knowledge), John Wooden's non-egalitarian coaching, Mozart's financial mismanagement (self-serving bias), Epictetus's response to setbacks, two-man partnership's assiduity rule. Mental model drill on Seamless Web of Deserved Trust with Day 1 prompts: biggest insight (success comes from earning merit, not shortcuts), assumption (bureaucracy is necessary vs symptom of missing trust). 3 reflection questions: audit recent work quality, examine trust in current environment, start daily learning habit. Personal commitment: apply 'deserve what you want' test to one piece of work. Talk 10 synthesizes themes from earlier talks but applies them personally - character traits, habits, and choices for life success. Next: Week 13 Day 2 - Mental Models (Deserve What You Want, Learning Machine, Seamless Web of Trust). Message delivered successfully."
+    "deliveredAt": "2026-06-23T06:00:00.000Z",
+    "messageId": "4543",
+    "fileMessageId": "4544",
+    "contentLength": 26177,
+    "notes": "Week 14 Day 3 of Talk 11 (Week 1 of 3, Multi-Week Talk). Inversion Focus: Four paths to ruin from combining psychological tendencies. Core frameworks: The Ego Loop (Self-Regard + Overoptimism + Doubt-Avoidance + Inconsistency), The Social Trap (Social Proof + Reciprocation + Liking + Authority), The Loss Spiral (Deprival-Superreaction + Denial + Commitment + Stress), The Information Chamber (Availability + Contrast + Association + Reward). Lollapalooza Effect: Single tendency = 1x, Two tendencies = 10x, Three+ tendencies = 50-100x impact. Structural solutions: Pre-mortems, Designated Dissenters, Pre-committed Exits, Reality Checks, Lollapalooza Mapping. 5 actionable takeaways: Build pre-mortems into decision process, Appoint designated dissenters, Pre-commit exit rules before entering, Do weekly reality checks, Map Lollapalooza effects. 5 case snapshots: Theranos collapse (Ego + Denial + Authority), Ford Pinto disaster (Incentives + Denial + Authority), Moonies recruitment (Isolation + Liking + Commitment), Berkshire Hathaway culture (Anti-Lollapalooza), AI safety and Lollapalooza risk. 5 reflection questions: What was your last major decision? Write a pre-mortem. Who is your designated dissenter? What exit rules have you pre-committed? What echo chamber are you in? What Lollapalooza effects operate in your life? Personal commitment: Write a pre-mortem for one major upcoming decision. Key insight: You cannot eliminate psychological tendencies (they're hardwired), but you can design systems that break their destructive loops. Next: Week 14 Day 4 - Career Applications. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
