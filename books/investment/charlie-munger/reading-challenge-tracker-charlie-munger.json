@@ -8,8 +8,8 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 14,
-  "currentDay": 3,
+  "currentWeek": 15,
+  "currentDay": 7,
   "status": "in-progress",
   "schedule": [
     {
@@ -152,7 +152,39 @@
       "messageId": null,
       "fileMessageId": null,
       "contentLength": 14104,
-      "notes": "Week 14 Day 4 of Talk 11 (Week 1 of 3, Multi-Week Talk). Career & Professional Focus: Applying psychological tendencies to workplace scenarios. Core frameworks: Career Inversion Audit (write 'Prescription for Career Misery' before major decisions), Workplace Incentive Alignment (design systems that harness Reward Superresponse for good outcomes), Professional Doubt-Avoidance Detector (mental alarm system for quick decisions). 5 actionable takeaways: write 3-bullet 'Prescription for Career Misery' before major decisions, create 'Psychology Checklist' for job offers, apply Inversion to career ruin (overestimate abilities + rush decisions + refuse change + avoid challenge), design systems to break bad psychological loops, neutralize Liking/Disliking tendency by asking 'would I still choose this without knowing who is involved?'. 5 case snapshots: GM fourth door mistake (Inconsistency-Avoidance + Excessive Self-Regard), 2023 tech layoff herd (Social Proof + Availability), promotion based on liking (Liking/Loving + Excessive Self-Regard), Berkshire executive compensation design (harnessing Reward Superresponse), cult-like company culture (Lollapalooza: Authority + Social Proof + Commitment + Doubt-Avoidance). Mental model drill on Career Inversion: what would Munger advise differently in current work situation? how to apply these principles in next career decision? 5 reflection questions: audit of recent quick work decisions (Doubt-Avoidance), workplace incentive structures analysis, choose one tendency affecting career + countermeasure, last major career decision psychological audit, professional ethics scenario (promotion based on liking). Personal commitment: identify ONE psychological tendency influencing a current work decision and write a specific countermeasure. Next: Week 14 Day 5 - Psychology & Bias Focus. Message delivered successfully."
+      "notes": "Week 14 Day 4 of Talk 11 (Week 1 of 3, Multi-Week Talk). Career & Professional Focus: Applying psychological tendencies to workplace scenarios. Core frameworks: Career Inversion Audit (write 'Prescription for Career Misery' before major decisions), Workplace Incentive Alignment (design systems that harness Reward Superresponse for good outcomes), Professional Doubt-Avoidance Detector (mental alarm system for quick decisions). 5 actionable takeaways: write 3-bullet 'Prescription for Career Misery' before major decisions, create 'Psychology Checklist' for job offers, apply Inversion to career ruin (overestimate abilities + rush decisions + refuse change + avoid challenge), design systems to break bad psychological loops, neutralize Liking/Disliking tendency by asking 'would you still choose this without knowing who is involved?'. 5 case snapshots: GM fourth door mistake (Inconsistency-Avoidance + Excessive Self-Regard), 2023 tech layoff herd (Social Proof + Availability), promotion based on liking (Liking/Loving + Excessive Self-Regard), Berkshire executive compensation design (harnessing Reward Superresponse), cult-like company culture (Lollapalooza: Authority + Social Proof + Commitment + Doubt-Avoidance). Mental model drill on Career Inversion: what would Munger advise differently in current work situation? how to apply these principles in next career decision? 5 reflection questions: audit of recent quick work decisions (Doubt-Avoidance), workplace incentive structures analysis, choose one tendency affecting career + countermeasure, last major career decision psychological audit, professional ethics scenario (promotion based on liking). Personal commitment: identify ONE psychological tendency influencing a current work decision and write a specific countermeasure. Next: Week 14 Day 5 - Psychology & Bias Focus. Message delivered successfully."
+    },
+    {
+      "week": 14,
+      "day": 7,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "1 of 3",
+      "date": "2026-06-27",
+      "focus": "Week 1 Review – Synthesis of Incentive & Social Tendencies (#1–8)",
+      "status": "delivered",
+      "deliveredAt": "2026-06-27T06:00:00.000Z",
+      "messageId": null,
+      "fileMessageId": null,
+      "contentLength": 26245,
+      "notes": "Week 14 Day 7 of Talk 11 (Week 1 of 3, Multi-Week Talk). Week 1 Review & Synthesis: Integration of all 8 foundational psychological tendencies (Reward Superresponse, Liking, Disliking, Doubt-Avoidance, Inconsistency, Curiosity, Kantian Fairness, Envy) into a unified framework. Core frameworks: The Eight Foundational Tendencies (complete list + hierarchy), Lollapalooza Effect (multiple tendencies combining for multiplied impact), Structural Countermeasures (environmental design to neutralize tendencies). 5 actionable takeaways: Map the 3 most active tendencies in your life for one week, run '8-Tendency Check' before major decisions, write personal 'Prescription for Decision Disaster' using inversion, audit environment for tendency triggers, create 'Personal Tendency Profile' with top 3 danger zones. 5 case snapshots: FedEx incentive shift (Reward Superresponse), Coca-Cola positive Lollapalooza (multiple tendencies working together), Real Estate agent contrast trap (Contrast-Misreaction), Theranos collapse (Lollapalooza of bad tendencies), Perfect investment disaster (8 tendencies aligned). Daily mental model drill: one permanent model to add to latticework, tendency radar development, identifying recent Lollapalooza effects. Week in review: You cannot eliminate tendencies (hardwired) but can design systems to neutralize them (checklists, pre-commitments, designated dissenters, pre-mortems). Integration exercise: Create Personal 'Tendency Radar' checklist for important decisions. Personal commitment: Identify ONE psychological tendency that influenced a recent decision and write what happened and what would be done differently next time. Next: Week 14 Day 8-10 - Week 1 Continuation (Tendencies 9-17). Message delivered successfully."
+    },
+    {
+      "week": 15,
+      "day": 7,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "2 of 3",
+      "date": "2026-07-04",
+      "focus": "Week 2 Review – Synthesis of Cognitive & Emotional Biases (#9–17)",
+      "status": "delivered",
+      "deliveredAt": "2026-07-04T06:00:00.000Z",
+      "messageId": "4559",
+      "fileMessageId": "4560",
+      "contentLength": 13599,
+      "notes": "Week 15 Day 7 of Talk 11 (Week 2 of 3, Multi-Week Talk). Week 2 Review & Synthesis: Integration of cognitive and emotional biases (#9–17) including Reciprocation, Association, Denial, Self-Regard, Overoptimism, Deprival-Superreaction, Social Proof, Contrast-Misreaction, and Stress-Influence. Core frameworks: Cognitive Distortion Layer (how minds misinterpret information), Self-Deception Loop (Denial + Self-Regard + Overoptimism), Lollapalooza Danger Zone (multiple tendencies aligning for multiplied impact). 5 actionable takeaways: map cognitive blind spots, practice Feynman's self-criticism principle, create pre-commitment rules for stress, neutralize social proof in decisions, use inversion on major decisions. 5 case snapshots: Open-Outcry Auctions (Deprival-Superreaction + Social Proof), Kitty Genovese case (Social Proof + Contrast), LTCM collapse (Excessive Self-Regard + Overoptimism), Real Estate agent price anchoring (Contrast-Misreaction), Panic selling in market crashes (Stress-Influence + Social Proof). Week in review: Tendencies #9–17 represent the cognitive and emotional distortion layer; cannot eliminate these tendencies (hardwired) but can design systems to neutralize them (structural solutions, checklists, pre-commitment rules, inversion thinking, Lollapalooza mapping). Personal commitment: Identify ONE of tendencies #9–17 that influenced a recent decision and write specific countermeasure. Next: Week 3 - Tendencies #18–25 + Full Synthesis. Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -160,20 +192,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 14,
-    "day": 3,
+    "week": 15,
+    "day": 7,
     "talkNumber": 11,
     "talkTitle": "The Psychology of Human Misjudgment",
     "talkSlug": "psychology-human-misjudgment",
-    "talkWeek": "1 of 3",
-    "date": "2026-06-23",
-    "focus": "Inversion Thinking — How Psychological Tendencies Destroy Decision-Making",
+    "talkWeek": "2 of 3",
+    "date": "2026-07-04",
+    "focus": "Week 2 Review – Synthesis of Cognitive & Emotional Biases (#9–17)",
     "status": "delivered",
-    "deliveredAt": "2026-06-23T06:00:00.000Z",
-    "messageId": "4543",
-    "fileMessageId": "4544",
-    "contentLength": 26177,
-    "notes": "Week 14 Day 3 of Talk 11 (Week 1 of 3, Multi-Week Talk). Inversion Focus: Four paths to ruin from combining psychological tendencies. Core frameworks: The Ego Loop (Self-Regard + Overoptimism + Doubt-Avoidance + Inconsistency), The Social Trap (Social Proof + Reciprocation + Liking + Authority), The Loss Spiral (Deprival-Superreaction + Denial + Commitment + Stress), The Information Chamber (Availability + Contrast + Association + Reward). Lollapalooza Effect: Single tendency = 1x, Two tendencies = 10x, Three+ tendencies = 50-100x impact. Structural solutions: Pre-mortems, Designated Dissenters, Pre-committed Exits, Reality Checks, Lollapalooza Mapping. 5 actionable takeaways: Build pre-mortems into decision process, Appoint designated dissenters, Pre-commit exit rules before entering, Do weekly reality checks, Map Lollapalooza effects. 5 case snapshots: Theranos collapse (Ego + Denial + Authority), Ford Pinto disaster (Incentives + Denial + Authority), Moonies recruitment (Isolation + Liking + Commitment), Berkshire Hathaway culture (Anti-Lollapalooza), AI safety and Lollapalooza risk. 5 reflection questions: What was your last major decision? Write a pre-mortem. Who is your designated dissenter? What exit rules have you pre-committed? What echo chamber are you in? What Lollapalooza effects operate in your life? Personal commitment: Write a pre-mortem for one major upcoming decision. Key insight: You cannot eliminate psychological tendencies (they're hardwired), but you can design systems that break their destructive loops. Next: Week 14 Day 4 - Career Applications. Message delivered successfully."
+    "deliveredAt": "2026-07-04T06:00:00.000Z",
+    "messageId": "4559",
+    "fileMessageId": "4560",
+    "contentLength": 13599,
+    "notes": "Week 15 Day 7 of Talk 11 (Week 2 of 3, Multi-Week Talk). Week 2 Review & Synthesis: Integration of cognitive and emotional biases (#9–17) including Reciprocation, Association, Denial, Self-Regard, Overoptimism, Deprival-Superreaction, Social Proof, Contrast-Misreaction, and Stress-Influence. Core frameworks: Cognitive Distortion Layer (how minds misinterpret information), Self-Deception Loop (Denial + Self-Regard + Overoptimism), Lollapalooza Danger Zone (multiple tendencies aligning for multiplied impact). 5 actionable takeaways: map cognitive blind spots, practice Feynman's self-criticism principle, create pre-commitment rules for stress, neutralize social proof in decisions, use inversion on major decisions. 5 case snapshots: Open-Outcry Auctions (Deprival-Superreaction + Social Proof), Kitty Genovese case (Social Proof + Contrast), LTCM collapse (Excessive Self-Regard + Overoptimism), Real Estate agent price anchoring (Contrast-Misreaction), Panic selling in market crashes (Stress-Influence + Social Proof). Week in review: Tendencies #9–17 represent the cognitive and emotional distortion layer; cannot eliminate these tendencies (hardwired) but can design systems to neutralize them (structural solutions, checklists, pre-commitment rules, inversion thinking, Lollapalooza mapping). Personal commitment: Identify ONE of tendencies #9–17 that influenced a recent decision and write specific countermeasure. Next: Week 3 - Tendencies #18–25 + Full Synthesis. Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
