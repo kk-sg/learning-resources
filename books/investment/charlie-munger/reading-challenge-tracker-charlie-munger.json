@@ -8,8 +8,8 @@
   "timezone": "Asia/Singington",
   "totalWeeks": 16,
   "totalDays": 112,
-  "currentWeek": 15,
-  "currentDay": 7,
+  "currentWeek": 16,
+  "currentDay": 2,
   "status": "in-progress",
   "schedule": [
     {
@@ -185,6 +185,22 @@
       "fileMessageId": "4560",
       "contentLength": 13599,
       "notes": "Week 15 Day 7 of Talk 11 (Week 2 of 3, Multi-Week Talk). Week 2 Review & Synthesis: Integration of cognitive and emotional biases (#9–17) including Reciprocation, Association, Denial, Self-Regard, Overoptimism, Deprival-Superreaction, Social Proof, Contrast-Misreaction, and Stress-Influence. Core frameworks: Cognitive Distortion Layer (how minds misinterpret information), Self-Deception Loop (Denial + Self-Regard + Overoptimism), Lollapalooza Danger Zone (multiple tendencies aligning for multiplied impact). 5 actionable takeaways: map cognitive blind spots, practice Feynman's self-criticism principle, create pre-commitment rules for stress, neutralize social proof in decisions, use inversion on major decisions. 5 case snapshots: Open-Outcry Auctions (Deprival-Superreaction + Social Proof), Kitty Genovese case (Social Proof + Contrast), LTCM collapse (Excessive Self-Regard + Overoptimism), Real Estate agent price anchoring (Contrast-Misreaction), Panic selling in market crashes (Stress-Influence + Social Proof). Week in review: Tendencies #9–17 represent the cognitive and emotional distortion layer; cannot eliminate these tendencies (hardwired) but can design systems to neutralize them (structural solutions, checklists, pre-commitment rules, inversion thinking, Lollapalooza mapping). Personal commitment: Identify ONE of tendencies #9–17 that influenced a recent decision and write specific countermeasure. Next: Week 3 - Tendencies #18–25 + Full Synthesis. Message delivered successfully."
+    },
+    {
+      "week": 16,
+      "day": 2,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "3 of 3",
+      "date": "2026-07-06",
+      "focus": "Chemical & Age Effects — Tendencies #20 (Drug-Misinfluence) and #21 (Senescence-Misinfluence)",
+      "status": "delivered",
+      "deliveredAt": "2026-07-06T06:00:00.000Z",
+      "messageId": "4562",
+      "fileMessageId": "4563",
+      "contentLength": 12151,
+      "notes": "Week 16 Day 2 of Talk 11 (Week 3 of 3, Multi-Week Talk). Chemical & Age Effects focus: Drug-Misinfluence (#20) and Senescence-Misinfluence (#21) tendencies show how biological factors compromise judgment. Core frameworks: Cognitive Foundation Principle (brain is biological organ, performance depends on physical factors), Drug-Misinfluence Tendency (chemicals alter judgment directly), Senescence-Misinfluence Tendency (cognitive decline with age is inevitable but rate varies). 5 actionable takeaways: establish 'no major decisions' rule for substance use, track 'cognitive edge' score daily, practice continuous thinking to combat aging, create cognitive audit checklist, design impairment triggers into decision systems. 5 case snapshots: Three Things Catastrophe (drugs, liquor, leverage), Trading While Impaired, Retirement Brain, Munger's Continuous Learning, 'I'm Fine' Delusion. Mental model drill on Drug-Misinfluence and Senescence-Misinfluence with Day 2 prompts: cognitive audit, cognitive edge rating, aging preparation plan. 5 reflection questions: audit of recent compromised decisions, substance awareness rule, aging preparation plan, system design for catching impairment, Munger's cognitive maintenance habits. Personal commitment: rate mental sharpness (1–10) before decisions; if below 7, defer 24 hours. Today's tendencies show biological limits: no mental models can overcome a chemically or biologically compromised brain. Protect cognitive machinery as valuable asset. Next: Week 16 Day 3 - Authority, Twaddle, and Reason-Respecting (Tendencies #22–24). Message delivered successfully."
     }
   ],
   "telegramTopic": {
@@ -192,20 +208,20 @@
     "topicId": "216"
   },
   "latestEntry": {
-    "week": 15,
-    "day": 7,
+    "week": 16,
+    "day": 2,
     "talkNumber": 11,
     "talkTitle": "The Psychology of Human Misjudgment",
     "talkSlug": "psychology-human-misjudgment",
-    "talkWeek": "2 of 3",
-    "date": "2026-07-04",
-    "focus": "Week 2 Review – Synthesis of Cognitive & Emotional Biases (#9–17)",
+    "talkWeek": "3 of 3",
+    "date": "2026-07-06",
+    "focus": "Chemical & Age Effects — Tendencies #20 (Drug-Misinfluence) and #21 (Senescence-Misinfluence)",
     "status": "delivered",
-    "deliveredAt": "2026-07-04T06:00:00.000Z",
-    "messageId": "4559",
-    "fileMessageId": "4560",
-    "contentLength": 13599,
-    "notes": "Week 15 Day 7 of Talk 11 (Week 2 of 3, Multi-Week Talk). Week 2 Review & Synthesis: Integration of cognitive and emotional biases (#9–17) including Reciprocation, Association, Denial, Self-Regard, Overoptimism, Deprival-Superreaction, Social Proof, Contrast-Misreaction, and Stress-Influence. Core frameworks: Cognitive Distortion Layer (how minds misinterpret information), Self-Deception Loop (Denial + Self-Regard + Overoptimism), Lollapalooza Danger Zone (multiple tendencies aligning for multiplied impact). 5 actionable takeaways: map cognitive blind spots, practice Feynman's self-criticism principle, create pre-commitment rules for stress, neutralize social proof in decisions, use inversion on major decisions. 5 case snapshots: Open-Outcry Auctions (Deprival-Superreaction + Social Proof), Kitty Genovese case (Social Proof + Contrast), LTCM collapse (Excessive Self-Regard + Overoptimism), Real Estate agent price anchoring (Contrast-Misreaction), Panic selling in market crashes (Stress-Influence + Social Proof). Week in review: Tendencies #9–17 represent the cognitive and emotional distortion layer; cannot eliminate these tendencies (hardwired) but can design systems to neutralize them (structural solutions, checklists, pre-commitment rules, inversion thinking, Lollapalooza mapping). Personal commitment: Identify ONE of tendencies #9–17 that influenced a recent decision and write specific countermeasure. Next: Week 3 - Tendencies #18–25 + Full Synthesis. Message delivered successfully."
+    "deliveredAt": "2026-07-06T06:00:00.000Z",
+    "messageId": "4562",
+    "fileMessageId": "4563",
+    "contentLength": 12151,
+    "notes": "Week 16 Day 2 of Talk 11 (Week 3 of 3, Multi-Week Talk). Chemical & Age Effects focus: Drug-Misinfluence (#20) and Senescence-Misinfluence (#21) tendencies show how biological factors compromise judgment. Core frameworks: Cognitive Foundation Principle (brain is biological organ, performance depends on physical factors), Drug-Misinfluence Tendency (chemicals alter judgment directly), Senescence-Misinfluence Tendency (cognitive decline with age is inevitable but rate varies). 5 actionable takeaways: establish 'no major decisions' rule for substance use, track 'cognitive edge' score daily, practice continuous thinking to combat aging, create cognitive audit checklist, design impairment triggers into decision systems. 5 case snapshots: Three Things Catastrophe (drugs, liquor, leverage), Trading While Impaired, Retirement Brain, Munger's Continuous Learning, 'I'm Fine' Delusion. Mental model drill on Drug-Misinfluence and Senescence-Misinfluence with Day 2 prompts: cognitive audit, cognitive edge rating, aging preparation plan. 5 reflection questions: audit of recent compromised decisions, substance awareness rule, aging preparation plan, system design for catching impairment, Munger's cognitive maintenance habits. Personal commitment: rate mental sharpness (1–10) before decisions; if below 7, defer 24 hours. Today's tendencies show biological limits: no mental models can overcome a chemically or biologically compromised brain. Protect cognitive machinery as valuable asset. Next: Week 16 Day 3 - Authority, Twaddle, and Reason-Respecting (Tendencies #22–24). Message delivered successfully."
   },
   "masterResearchSchedule": [
     {
