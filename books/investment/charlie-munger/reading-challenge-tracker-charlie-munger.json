@@ -13,6 +13,22 @@
   "status": "in-progress",
   "schedule": [
     {
+      "week": 16,
+      "day": 3,
+      "talkNumber": 11,
+      "talkTitle": "The Psychology of Human Misjudgment",
+      "talkSlug": "psychology-human-misjudgment",
+      "talkWeek": "3 of 3",
+      "date": "2026-07-07",
+      "focus": "Authority, Twaddle, and Reason-Respecting (Tendencies #22–24)",
+      "status": "delivered",
+      "deliveredAt": "2026-07-07T06:00:00.000Z",
+      "messageId": "4574",
+      "fileMessageId": "4575",
+      "contentLength": 12328,
+      "notes": "Week 16 Day 3 of Talk 11 (Week 3 of 3, Multi-Week Talk). Authority, Twaddle, and Reason-Respecting focus: three tendencies that shape communication and decision-making. Core frameworks: Authority-Misinfluence (biological programming to obey authority, even when wrong), Twaddle Tendency (born to prattle, wasteful talking over listening), Reason-Respecting (compliance with any reason, even bad ones). 5 actionable takeaways: audit authority incentives, create 'Meeting Twaddle Audit', design anti-obedience systems, give good reasons but recognize manipulation, document evidence before accepting authority decisions. 5 case snapshots: Milgram experiment (65% administer lethal shocks due to authority), Xerox machine study (94% compliance with bad reason), corporate meeting culture (twaddle destroying productivity), Berkshire culture (anti-twaddle, concise decisions), Inversion case (designing blind obedience). Mental model drill on Authority/Twaddle/Reason-Respecting with Day 3 prompts. 3 reflection questions: audit of expert advice acceptance, workplace authority and twaddle analysis, quality vs form of reasons evaluation. Personal commitment: identify one recurring 'twaddle' meeting and cancel or redesign it. Today's tendencies show social/communication software bugs that undermine judgment even with healthy brains. Next: Week 16 Day 4 - Reason-Respecting Deep Dive (Tendency #24) and Lollapalooza (#25). Message delivered successfully."
+    },
+    {
       "week": 8,
       "day": 1,
       "talkNumber": 6,
